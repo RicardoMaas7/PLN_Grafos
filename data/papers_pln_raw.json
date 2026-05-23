@@ -1,0 +1,6358 @@
+[
+  {
+    "paperId": "c6850869aa5e78a107c378d2e8bfa39633158c0c",
+    "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+    "year": 2016,
+    "authors": [
+      {
+        "authorId": "48607963",
+        "name": "Yonghui Wu"
+      },
+      {
+        "authorId": "144927151",
+        "name": "M. Schuster"
+      },
+      {
+        "authorId": "2545358",
+        "name": "Z. Chen"
+      },
+      {
+        "authorId": "2827616",
+        "name": "Quoc V. Le"
+      },
+      {
+        "authorId": "144739074",
+        "name": "Mohammad Norouzi"
+      },
+      {
+        "authorId": "3153147",
+        "name": "Wolfgang Macherey"
+      },
+      {
+        "authorId": "2048712",
+        "name": "M. Krikun"
+      },
+      {
+        "authorId": "145144022",
+        "name": "Yuan Cao"
+      },
+      {
+        "authorId": "145312180",
+        "name": "Qin Gao"
+      },
+      {
+        "authorId": "113439369",
+        "name": "Klaus Macherey"
+      },
+      {
+        "authorId": "2367620",
+        "name": "J. Klingner"
+      },
+      {
+        "authorId": "145825976",
+        "name": "Apurva Shah"
+      },
+      {
+        "authorId": "145657834",
+        "name": "Melvin Johnson"
+      },
+      {
+        "authorId": "2109059862",
+        "name": "Xiaobing Liu"
+      },
+      {
+        "authorId": "40527594",
+        "name": "Lukasz Kaiser"
+      },
+      {
+        "authorId": "2776283",
+        "name": "Stephan Gouws"
+      },
+      {
+        "authorId": "2739610",
+        "name": "Yoshikiyo Kato"
+      },
+      {
+        "authorId": "1765329",
+        "name": "Taku Kudo"
+      },
+      {
+        "authorId": "1754386",
+        "name": "H. Kazawa"
+      },
+      {
+        "authorId": "144077726",
+        "name": "K. Stevens"
+      },
+      {
+        "authorId": "1753079661",
+        "name": "George Kurian"
+      },
+      {
+        "authorId": "2056800684",
+        "name": "Nishant Patil"
+      },
+      {
+        "authorId": "49337181",
+        "name": "Wei Wang"
+      },
+      {
+        "authorId": "39660914",
+        "name": "C. Young"
+      },
+      {
+        "authorId": "2119125158",
+        "name": "Jason R. Smith"
+      },
+      {
+        "authorId": "2909504",
+        "name": "Jason Riesa"
+      },
+      {
+        "authorId": "29951847",
+        "name": "Alex Rudnick"
+      },
+      {
+        "authorId": "1689108",
+        "name": "O. Vinyals"
+      },
+      {
+        "authorId": "32131713",
+        "name": "G. Corrado"
+      },
+      {
+        "authorId": "48342565",
+        "name": "Macduff Hughes"
+      },
+      {
+        "authorId": "49959210",
+        "name": "J. Dean"
+      }
+    ]
+  },
+  {
+    "paperId": "1518039b5001f1836565215eb047526b3ac7f462",
+    "title": "Neural Machine Translation of Rare Words with Subword Units",
+    "year": 2015,
+    "authors": [
+      {
+        "authorId": "2082372",
+        "name": "Rico Sennrich"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "2539211",
+        "name": "Alexandra Birch"
+      }
+    ]
+  },
+  {
+    "paperId": "93499a7c7f699b6630a86fad964536f9423bb6d0",
+    "title": "Effective Approaches to Attention-based Neural Machine Translation",
+    "year": 2015,
+    "authors": [
+      {
+        "authorId": "1821711",
+        "name": "Thang Luong"
+      },
+      {
+        "authorId": "143950636",
+        "name": "Hieu Pham"
+      },
+      {
+        "authorId": "144783904",
+        "name": "Christopher D. Manning"
+      }
+    ]
+  },
+  {
+    "paperId": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+    "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+    "year": 2014,
+    "authors": [
+      {
+        "authorId": "3335364",
+        "name": "Dzmitry Bahdanau"
+      },
+      {
+        "authorId": "1979489",
+        "name": "Kyunghyun Cho"
+      },
+      {
+        "authorId": "1751762",
+        "name": "Yoshua Bengio"
+      }
+    ]
+  },
+  {
+    "paperId": "0b544dfe355a5070b60986319a3f51fb45d1348e",
+    "title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+    "year": 2014,
+    "authors": [
+      {
+        "authorId": "1979489",
+        "name": "Kyunghyun Cho"
+      },
+      {
+        "authorId": "3158246",
+        "name": "B. V. Merrienboer"
+      },
+      {
+        "authorId": "1854385",
+        "name": "Çaglar Gülçehre"
+      },
+      {
+        "authorId": "3335364",
+        "name": "Dzmitry Bahdanau"
+      },
+      {
+        "authorId": "2076086",
+        "name": "Fethi Bougares"
+      },
+      {
+        "authorId": "144518416",
+        "name": "Holger Schwenk"
+      },
+      {
+        "authorId": "1751762",
+        "name": "Yoshua Bengio"
+      }
+    ]
+  },
+  {
+    "paperId": "d7da009f457917aa381619facfa5ffae9329a6e9",
+    "title": "Bleu: a Method for Automatic Evaluation of Machine Translation",
+    "year": 2002,
+    "authors": [
+      {
+        "authorId": "3323275",
+        "name": "Kishore Papineni"
+      },
+      {
+        "authorId": "46924970",
+        "name": "Salim Roukos"
+      },
+      {
+        "authorId": "144582029",
+        "name": "T. Ward"
+      },
+      {
+        "authorId": "2587983",
+        "name": "Wei-Jing Zhu"
+      }
+    ]
+  },
+  {
+    "paperId": "1eb09fecd75eb27825dce4f964b97f4f5cc399d7",
+    "title": "On the Properties of Neural Machine Translation: Encoder–Decoder Approaches",
+    "year": 2014,
+    "authors": [
+      {
+        "authorId": "1979489",
+        "name": "Kyunghyun Cho"
+      },
+      {
+        "authorId": "3158246",
+        "name": "B. V. Merrienboer"
+      },
+      {
+        "authorId": "3335364",
+        "name": "Dzmitry Bahdanau"
+      },
+      {
+        "authorId": "1751762",
+        "name": "Yoshua Bengio"
+      }
+    ]
+  },
+  {
+    "paperId": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
+    "title": "No Language Left Behind: Scaling Human-Centered Machine Translation",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2175650427",
+        "name": "Nllb team"
+      },
+      {
+        "authorId": "1398996347",
+        "name": "M. Costa-jussà"
+      },
+      {
+        "authorId": "2059363961",
+        "name": "James Cross"
+      },
+      {
+        "authorId": "2166310112",
+        "name": "Onur cCelebi"
+      },
+      {
+        "authorId": "46183659",
+        "name": "Maha Elbayad"
+      },
+      {
+        "authorId": "1702066",
+        "name": "Kenneth Heafield"
+      },
+      {
+        "authorId": "47926975",
+        "name": "Kevin Heffernan"
+      },
+      {
+        "authorId": "2175649909",
+        "name": "Elahe Kalbassi"
+      },
+      {
+        "authorId": "82469889",
+        "name": "Janice Lam"
+      },
+      {
+        "authorId": "2082021589",
+        "name": "Daniel Licht"
+      },
+      {
+        "authorId": "40148380",
+        "name": "Jean Maillard"
+      },
+      {
+        "authorId": "2091912142",
+        "name": "Anna Sun"
+      },
+      {
+        "authorId": "2175975228",
+        "name": "Skyler Wang"
+      },
+      {
+        "authorId": "2293203",
+        "name": "Guillaume Wenzek"
+      },
+      {
+        "authorId": "118325632",
+        "name": "Alison Youngblood"
+      },
+      {
+        "authorId": "2175649907",
+        "name": "Bapi Akula"
+      },
+      {
+        "authorId": "2934336",
+        "name": "Loïc Barrault"
+      },
+      {
+        "authorId": "2175804876",
+        "name": "G. Gonzalez"
+      },
+      {
+        "authorId": "2175651102",
+        "name": "Prangthip Hansanti"
+      },
+      {
+        "authorId": "2055094870",
+        "name": "John Hoffman"
+      },
+      {
+        "authorId": "2175650054",
+        "name": "Semarley Jarrett"
+      },
+      {
+        "authorId": "1914544232",
+        "name": "Kaushik Ram Sadagopan"
+      },
+      {
+        "authorId": "2175650209",
+        "name": "Dirk Rowe"
+      },
+      {
+        "authorId": "3416737",
+        "name": "Shannon L. Spruit"
+      },
+      {
+        "authorId": "33806547",
+        "name": "C. Tran"
+      },
+      {
+        "authorId": "5657660",
+        "name": "Pierre Yves Andrews"
+      },
+      {
+        "authorId": "1769060",
+        "name": "Necip Fazil Ayan"
+      },
+      {
+        "authorId": "2116473",
+        "name": "Shruti Bhosale"
+      },
+      {
+        "authorId": "2068070",
+        "name": "Sergey Edunov"
+      },
+      {
+        "authorId": "144270981",
+        "name": "Angela Fan"
+      },
+      {
+        "authorId": "2107063269",
+        "name": "Cynthia Gao"
+      },
+      {
+        "authorId": "28554843",
+        "name": "Vedanuj Goswami"
+      },
+      {
+        "authorId": "144204682",
+        "name": "Francisco (Paco) Guzmán"
+      },
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "2175651049",
+        "name": "Alexandre Mourachko"
+      },
+      {
+        "authorId": "146424711",
+        "name": "C. Ropers"
+      },
+      {
+        "authorId": "2475227",
+        "name": "Safiyyah Saleem"
+      },
+      {
+        "authorId": "144518416",
+        "name": "Holger Schwenk"
+      },
+      {
+        "authorId": "2155451431",
+        "name": "Jeff Wang"
+      }
+    ]
+  },
+  {
+    "paperId": "ebd1c04c61f73f46def3305ca11d038c46665b65",
+    "title": "Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2108835452",
+        "name": "Haoran Xu"
+      },
+      {
+        "authorId": "2243335598",
+        "name": "Amr Sharaf"
+      },
+      {
+        "authorId": "104375103",
+        "name": "Yunmo Chen"
+      },
+      {
+        "authorId": "28000727",
+        "name": "Weiting Tan"
+      },
+      {
+        "authorId": "2121272448",
+        "name": "Lingfeng Shen"
+      },
+      {
+        "authorId": "7536576",
+        "name": "Benjamin Van Durme"
+      },
+      {
+        "authorId": "2253405580",
+        "name": "Kenton Murray"
+      },
+      {
+        "authorId": "2152658577",
+        "name": "Young Jin Kim"
+      }
+    ]
+  },
+  {
+    "paperId": "7f5331294fe5e94f145a7129efac50b801099aa1",
+    "title": "Scaling neural machine translation to 200 languages",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "1398996347",
+        "name": "M. Costa-jussà"
+      },
+      {
+        "authorId": "2305082156",
+        "name": "James Cross"
+      },
+      {
+        "authorId": "2061077885",
+        "name": "Onur Çelebi"
+      },
+      {
+        "authorId": "46183659",
+        "name": "Maha Elbayad"
+      },
+      {
+        "authorId": "1702066",
+        "name": "Kenneth Heafield"
+      },
+      {
+        "authorId": "2273469420",
+        "name": "Kevin Heffernan"
+      },
+      {
+        "authorId": "2175649909",
+        "name": "Elahe Kalbassi"
+      },
+      {
+        "authorId": "82469889",
+        "name": "Janice Lam"
+      },
+      {
+        "authorId": "2082021589",
+        "name": "Daniel Licht"
+      },
+      {
+        "authorId": "2272878449",
+        "name": "Jean Maillard"
+      },
+      {
+        "authorId": "2091912142",
+        "name": "Anna Sun"
+      },
+      {
+        "authorId": "2175975228",
+        "name": "Skyler Wang"
+      },
+      {
+        "authorId": "2293203",
+        "name": "Guillaume Wenzek"
+      },
+      {
+        "authorId": "2305079624",
+        "name": "Al Youngblood"
+      },
+      {
+        "authorId": "2175649907",
+        "name": "Bapi Akula"
+      },
+      {
+        "authorId": "2285819780",
+        "name": "L. Bar-rault"
+      },
+      {
+        "authorId": "2175804876",
+        "name": "G. Gonzalez"
+      },
+      {
+        "authorId": "2175651102",
+        "name": "Prangthip Hansanti"
+      },
+      {
+        "authorId": "2055094870",
+        "name": "John Hoffman"
+      },
+      {
+        "authorId": "2175650054",
+        "name": "Semarley Jarrett"
+      },
+      {
+        "authorId": "1914544232",
+        "name": "Kaushik Ram Sadagopan"
+      },
+      {
+        "authorId": "2175650209",
+        "name": "Dirk Rowe"
+      },
+      {
+        "authorId": "2305079600",
+        "name": "Shannon Spruit"
+      },
+      {
+        "authorId": "33806547",
+        "name": "C. Tran"
+      },
+      {
+        "authorId": "2272476581",
+        "name": "Pierre Andrews"
+      },
+      {
+        "authorId": "1769060",
+        "name": "Necip Fazil Ayan"
+      },
+      {
+        "authorId": "2116473",
+        "name": "Shruti Bhosale"
+      },
+      {
+        "authorId": "2068070",
+        "name": "Sergey Edunov"
+      },
+      {
+        "authorId": "2247818297",
+        "name": "Angela Fan"
+      },
+      {
+        "authorId": "2107063269",
+        "name": "Cynthia Gao"
+      },
+      {
+        "authorId": "28554843",
+        "name": "Vedanuj Goswami"
+      },
+      {
+        "authorId": "2280918473",
+        "name": "Francisco Guzmán"
+      },
+      {
+        "authorId": "2257220508",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "2278834438",
+        "name": "Alex Mourachko"
+      },
+      {
+        "authorId": "146424711",
+        "name": "C. Ropers"
+      },
+      {
+        "authorId": "2475227",
+        "name": "Safiyyah Saleem"
+      },
+      {
+        "authorId": "2286649350",
+        "name": "Holger Schwenk"
+      },
+      {
+        "authorId": "2273017230",
+        "name": "Jeff Wang"
+      }
+    ]
+  },
+  {
+    "paperId": "395de0bd3837fdf4b4b5e5f04835bcc69c279481",
+    "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "35084211",
+        "name": "M. Lewis"
+      },
+      {
+        "authorId": "11323179",
+        "name": "Yinhan Liu"
+      },
+      {
+        "authorId": "39589154",
+        "name": "Naman Goyal"
+      },
+      {
+        "authorId": "2320509",
+        "name": "Marjan Ghazvininejad"
+      },
+      {
+        "authorId": "113947684",
+        "name": "Abdel-rahman Mohamed"
+      },
+      {
+        "authorId": "39455775",
+        "name": "Omer Levy"
+      },
+      {
+        "authorId": "1759422",
+        "name": "Veselin Stoyanov"
+      },
+      {
+        "authorId": "1982950",
+        "name": "Luke Zettlemoyer"
+      }
+    ]
+  },
+  {
+    "paperId": "ae3d869719c15099889c02c03b922516b3b60aa0",
+    "title": "How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2064181049",
+        "name": "Amr Hendy"
+      },
+      {
+        "authorId": "2128858495",
+        "name": "Mohamed Abdelrehim"
+      },
+      {
+        "authorId": "143816740",
+        "name": "Amr Sharaf"
+      },
+      {
+        "authorId": "24025563",
+        "name": "Vikas Raunak"
+      },
+      {
+        "authorId": "2060201019",
+        "name": "Mohamed Gabr"
+      },
+      {
+        "authorId": "1909626",
+        "name": "Hitokazu Matsushita"
+      },
+      {
+        "authorId": "2152658577",
+        "name": "Young Jin Kim"
+      },
+      {
+        "authorId": "144295739",
+        "name": "M. Afify"
+      },
+      {
+        "authorId": "3032929",
+        "name": "H. Awadalla"
+      }
+    ]
+  },
+  {
+    "paperId": "871b196639337f5d5b7da2ae9d747583a1bc484e",
+    "title": "xcomet: Transparent Machine Translation Evaluation through Fine-grained Error Detection",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "144726818",
+        "name": "Nuno M. Guerreiro"
+      },
+      {
+        "authorId": "15631652",
+        "name": "Ricardo Rei"
+      },
+      {
+        "authorId": "2243334810",
+        "name": "Daan van Stigt"
+      },
+      {
+        "authorId": "147294938",
+        "name": "Luísa Coheur"
+      },
+      {
+        "authorId": "2258716059",
+        "name": "Pierre Colombo"
+      },
+      {
+        "authorId": "2069905347",
+        "name": "André Martins"
+      }
+    ]
+  },
+  {
+    "paperId": "4ee2eab4c298c1824a9fb8799ad8eed21be38d21",
+    "title": "Moses: Open Source Toolkit for Statistical Machine Translation",
+    "year": 2007,
+    "authors": [
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "152378023",
+        "name": "Hieu T. Hoang"
+      },
+      {
+        "authorId": "2539211",
+        "name": "Alexandra Birch"
+      },
+      {
+        "authorId": "1763608",
+        "name": "Chris Callison-Burch"
+      },
+      {
+        "authorId": "102811815",
+        "name": "Marcello Federico"
+      },
+      {
+        "authorId": "1895952",
+        "name": "N. Bertoldi"
+      },
+      {
+        "authorId": "46898156",
+        "name": "B. Cowan"
+      },
+      {
+        "authorId": "2529583",
+        "name": "Wade Shen"
+      },
+      {
+        "authorId": "2055137469",
+        "name": "C. Moran"
+      },
+      {
+        "authorId": "1983801",
+        "name": "Richard Zens"
+      },
+      {
+        "authorId": "1745899",
+        "name": "Chris Dyer"
+      },
+      {
+        "authorId": "143832874",
+        "name": "Ondrej Bojar"
+      },
+      {
+        "authorId": "2057195055",
+        "name": "Alexandra Constantin"
+      },
+      {
+        "authorId": "2082901914",
+        "name": "Evan Herbst"
+      }
+    ]
+  },
+  {
+    "paperId": "495da6f19baa09c6db3697d839e10432cdc25934",
+    "title": "Multilingual Denoising Pre-training for Neural Machine Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "11323179",
+        "name": "Yinhan Liu"
+      },
+      {
+        "authorId": "3016273",
+        "name": "Jiatao Gu"
+      },
+      {
+        "authorId": "39589154",
+        "name": "Naman Goyal"
+      },
+      {
+        "authorId": "2116235416",
+        "name": "Xian Li"
+      },
+      {
+        "authorId": "2068070",
+        "name": "Sergey Edunov"
+      },
+      {
+        "authorId": "2320509",
+        "name": "Marjan Ghazvininejad"
+      },
+      {
+        "authorId": "35084211",
+        "name": "M. Lewis"
+      },
+      {
+        "authorId": "1982950",
+        "name": "Luke Zettlemoyer"
+      }
+    ]
+  },
+  {
+    "paperId": "233a1823b4bc0543576f7286ac9ce1c58f2cca8a",
+    "title": "Findings of the WMT24 General Machine Translation Shared Task: The LLM Era Is Here but MT Is Not Solved Yet",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2331623247",
+        "name": "Tom Kocmi"
+      },
+      {
+        "authorId": "2837687",
+        "name": "Eleftherios Avramidis"
+      },
+      {
+        "authorId": "2331624762",
+        "name": "Rachel Bawden"
+      },
+      {
+        "authorId": "2301579359",
+        "name": "Ondrej Bojar"
+      },
+      {
+        "authorId": "3457077",
+        "name": "Anton Dvorkovich"
+      },
+      {
+        "authorId": "3359291",
+        "name": "C. Federmann"
+      },
+      {
+        "authorId": "2032659",
+        "name": "Mark Fishel"
+      },
+      {
+        "authorId": "2269456766",
+        "name": "Markus Freitag"
+      },
+      {
+        "authorId": "145845766",
+        "name": "Thamme Gowda"
+      },
+      {
+        "authorId": "3272639",
+        "name": "Roman Grundkiewicz"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "37796923",
+        "name": "Marzena Karpinska"
+      },
+      {
+        "authorId": "2263373780",
+        "name": "P. Koehn"
+      },
+      {
+        "authorId": "2269457059",
+        "name": "Benjamin Marie"
+      },
+      {
+        "authorId": "2062908179",
+        "name": "C. Monz"
+      },
+      {
+        "authorId": "2253405580",
+        "name": "Kenton Murray"
+      },
+      {
+        "authorId": "2267423602",
+        "name": "Masaaki Nagata"
+      },
+      {
+        "authorId": "3209310",
+        "name": "M. Popel"
+      },
+      {
+        "authorId": "2259498828",
+        "name": "Maja Popovic"
+      },
+      {
+        "authorId": "2269459605",
+        "name": "Mariya Shmatova"
+      },
+      {
+        "authorId": "3461126",
+        "name": "Steinþór Steingrímsson"
+      },
+      {
+        "authorId": "1429837660",
+        "name": "Vilém Zouhar"
+      }
+    ]
+  },
+  {
+    "paperId": "468aac061dfee2fda4410420bd43c09f7fc68854",
+    "title": "From LLM to NMT: Advancing Low-Resource Machine Translation with Claude",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2297767445",
+        "name": "Maxim Enis"
+      },
+      {
+        "authorId": "2008176569",
+        "name": "Mark Hopkins"
+      }
+    ]
+  },
+  {
+    "paperId": "ca21325b924b1a585209197984f3cfcfa9c93c84",
+    "title": "Overview and challenges of machine translation for contextually appropriate translations",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2247860108",
+        "name": "P. Naveen"
+      },
+      {
+        "authorId": "2150730612",
+        "name": "Pavel Trojovský"
+      }
+    ]
+  },
+  {
+    "paperId": "694b3c58712deefb59502847ba1b52b192c413e5",
+    "title": "Europarl: A Parallel Corpus for Statistical Machine Translation",
+    "year": 2005,
+    "authors": [
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      }
+    ]
+  },
+  {
+    "paperId": "ab7b5917515c460b90451e67852171a531671ab8",
+    "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation",
+    "year": 1993,
+    "authors": [
+      {
+        "authorId": "32538203",
+        "name": "P. Brown"
+      },
+      {
+        "authorId": "2714577",
+        "name": "S. D. Pietra"
+      },
+      {
+        "authorId": "39944066",
+        "name": "V. D. Pietra"
+      },
+      {
+        "authorId": "2474650",
+        "name": "R. Mercer"
+      }
+    ]
+  },
+  {
+    "paperId": "c879413103f8950bdd414c7f60a39bd7748c9be8",
+    "title": "Prompting Large Language Model for Machine Translation: A Case Study",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "48335426",
+        "name": "Biao Zhang"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "2539211",
+        "name": "Alexandra Birch"
+      }
+    ]
+  },
+  {
+    "paperId": "293499319bdd460cb3fca1f0f5eb330e64bf3ff9",
+    "title": "Towards Making the Most of ChatGPT for Machine Translation",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2065263152",
+        "name": "Keqin Peng"
+      },
+      {
+        "authorId": "46573238",
+        "name": "Liang Ding"
+      },
+      {
+        "authorId": "2114810150",
+        "name": "Qihuang Zhong"
+      },
+      {
+        "authorId": "2144035454",
+        "name": "Li Shen"
+      },
+      {
+        "authorId": "1390611971",
+        "name": "Xuebo Liu"
+      },
+      {
+        "authorId": "48985192",
+        "name": "Min Zhang"
+      },
+      {
+        "authorId": "1797641",
+        "name": "Y. Ouyang"
+      },
+      {
+        "authorId": "2135519749",
+        "name": "Dacheng Tao"
+      }
+    ]
+  },
+  {
+    "paperId": "1f12451245667a85d0ee225a80880fc93c71cc8b",
+    "title": "Minimum Error Rate Training in Statistical Machine Translation",
+    "year": 2003,
+    "authors": [
+      {
+        "authorId": "2002316",
+        "name": "F. Och"
+      }
+    ]
+  },
+  {
+    "paperId": "dfd8944d39b378489b878d6e105d040fa0e524db",
+    "title": "Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2131383723",
+        "name": "Wenhao Zhu"
+      },
+      {
+        "authorId": "2115669628",
+        "name": "Hongyi Liu"
+      },
+      {
+        "authorId": "2047143813",
+        "name": "Qingxiu Dong"
+      },
+      {
+        "authorId": "47883405",
+        "name": "Jingjing Xu"
+      },
+      {
+        "authorId": "47648549",
+        "name": "Lingpeng Kong"
+      },
+      {
+        "authorId": "1838162",
+        "name": "Jiajun Chen"
+      },
+      {
+        "authorId": "143900005",
+        "name": "Lei Li"
+      },
+      {
+        "authorId": "2046010",
+        "name": "Shujian Huang"
+      }
+    ]
+  },
+  {
+    "paperId": "2c686c6c978263fdcd1f47b558d4570ae272ac3e",
+    "title": "SeamlessM4T: Massively Multilingual&Multimodal Machine Translation",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2232955181",
+        "name": "Seamless Communication"
+      },
+      {
+        "authorId": "2934336",
+        "name": "Loïc Barrault"
+      },
+      {
+        "authorId": "2815804",
+        "name": "Yu-An Chung"
+      },
+      {
+        "authorId": "2232954646",
+        "name": "Mariano Cora Meglioli"
+      },
+      {
+        "authorId": "2097711561",
+        "name": "David Dale"
+      },
+      {
+        "authorId": "2053361624",
+        "name": "Ning Dong"
+      },
+      {
+        "authorId": "2145480747",
+        "name": "Paul-Ambroise Duquenne"
+      },
+      {
+        "authorId": "2218938",
+        "name": "Hady ElSahar"
+      },
+      {
+        "authorId": "2008458",
+        "name": "Hongyu Gong"
+      },
+      {
+        "authorId": "47926975",
+        "name": "Kevin Heffernan"
+      },
+      {
+        "authorId": "2055094870",
+        "name": "John Hoffman"
+      },
+      {
+        "authorId": "2232954427",
+        "name": "Christopher Klaiber"
+      },
+      {
+        "authorId": "50492525",
+        "name": "Peng Li"
+      },
+      {
+        "authorId": "2082021589",
+        "name": "Daniel Licht"
+      },
+      {
+        "authorId": "40148380",
+        "name": "Jean Maillard"
+      },
+      {
+        "authorId": "2232955325",
+        "name": "A. Rakotoarison"
+      },
+      {
+        "authorId": "1914544232",
+        "name": "Kaushik Ram Sadagopan"
+      },
+      {
+        "authorId": "2293203",
+        "name": "Guillaume Wenzek"
+      },
+      {
+        "authorId": "2232955321",
+        "name": "Ethan Ye"
+      },
+      {
+        "authorId": "2175649907",
+        "name": "Bapi Akula"
+      },
+      {
+        "authorId": "2158170998",
+        "name": "Peng-Jen Chen"
+      },
+      {
+        "authorId": "2232955167",
+        "name": "Naji El Hachem"
+      },
+      {
+        "authorId": "2154690070",
+        "name": "Brian Ellis"
+      },
+      {
+        "authorId": "2175804876",
+        "name": "G. Gonzalez"
+      },
+      {
+        "authorId": "2232954588",
+        "name": "Justin Haaheim"
+      },
+      {
+        "authorId": "2175651102",
+        "name": "Prangthip Hansanti"
+      },
+      {
+        "authorId": "1410913697",
+        "name": "Russ Howes"
+      },
+      {
+        "authorId": "2150494165",
+        "name": "Bernie Huang"
+      },
+      {
+        "authorId": "47350043",
+        "name": "Min-Jae Hwang"
+      },
+      {
+        "authorId": "49276525",
+        "name": "H. Inaguma"
+      },
+      {
+        "authorId": "2116457668",
+        "name": "Somya Jain"
+      },
+      {
+        "authorId": "2175649909",
+        "name": "Elahe Kalbassi"
+      },
+      {
+        "authorId": "122882087",
+        "name": "Amanda Kallet"
+      },
+      {
+        "authorId": "38729182",
+        "name": "Ilia Kulikov"
+      },
+      {
+        "authorId": "82469889",
+        "name": "Janice Lam"
+      },
+      {
+        "authorId": "2530311",
+        "name": "Shang-Wen Li"
+      },
+      {
+        "authorId": "40765198",
+        "name": "Xutai Ma"
+      },
+      {
+        "authorId": "2056584",
+        "name": "R. Mavlyutov"
+      },
+      {
+        "authorId": "31634668",
+        "name": "Benjamin N. Peloquin"
+      },
+      {
+        "authorId": "2161277332",
+        "name": "M.L. Ramadan"
+      },
+      {
+        "authorId": "2406445",
+        "name": "Abinesh Ramakrishnan"
+      },
+      {
+        "authorId": "2091912142",
+        "name": "Anna Sun"
+      },
+      {
+        "authorId": "2748455",
+        "name": "Ke M. Tran"
+      },
+      {
+        "authorId": "2232374862",
+        "name": "Tuan Tran"
+      },
+      {
+        "authorId": "2032201719",
+        "name": "Igor Tufanov"
+      },
+      {
+        "authorId": "2232955561",
+        "name": "Vish Vogeti"
+      },
+      {
+        "authorId": "2218040866",
+        "name": "Carleigh Wood"
+      },
+      {
+        "authorId": "46285635",
+        "name": "Yilin Yang"
+      },
+      {
+        "authorId": "2110706214",
+        "name": "Bo Yu"
+      },
+      {
+        "authorId": "5657660",
+        "name": "Pierre Yves Andrews"
+      },
+      {
+        "authorId": "1726054029",
+        "name": "Can Balioglu"
+      },
+      {
+        "authorId": "1398996347",
+        "name": "M. Costa-jussà"
+      },
+      {
+        "authorId": "2061077885",
+        "name": "Onur Çelebi"
+      },
+      {
+        "authorId": "46183659",
+        "name": "Maha Elbayad"
+      },
+      {
+        "authorId": "2107063269",
+        "name": "Cynthia Gao"
+      },
+      {
+        "authorId": "2061585840",
+        "name": "F. Guzm’an"
+      },
+      {
+        "authorId": "2055513699",
+        "name": "Justine T. Kao"
+      },
+      {
+        "authorId": "145732777",
+        "name": "Ann Lee"
+      },
+      {
+        "authorId": "2175651049",
+        "name": "Alexandre Mourachko"
+      },
+      {
+        "authorId": "145503806",
+        "name": "J. Pino"
+      },
+      {
+        "authorId": "2145479276",
+        "name": "Sravya Popuri"
+      },
+      {
+        "authorId": "146424711",
+        "name": "C. Ropers"
+      },
+      {
+        "authorId": "2475227",
+        "name": "Safiyyah Saleem"
+      },
+      {
+        "authorId": "144518416",
+        "name": "Holger Schwenk"
+      },
+      {
+        "authorId": "52021958",
+        "name": "Paden Tomasello"
+      },
+      {
+        "authorId": "20132361",
+        "name": "Changhan Wang"
+      },
+      {
+        "authorId": "2110222586",
+        "name": "Jeff Wang"
+      },
+      {
+        "authorId": "2175975228",
+        "name": "Skyler Wang"
+      }
+    ]
+  },
+  {
+    "paperId": "f3b96ef2dc1fc5e14982f1b963db8db6a54183bb",
+    "title": "Improving Neural Machine Translation Models with Monolingual Data",
+    "year": 2015,
+    "authors": [
+      {
+        "authorId": "2082372",
+        "name": "Rico Sennrich"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "2539211",
+        "name": "Alexandra Birch"
+      }
+    ]
+  },
+  {
+    "paperId": "789b8487da7188442085983caba3ffaae05531e9",
+    "title": "The Flores-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "39589154",
+        "name": "Naman Goyal"
+      },
+      {
+        "authorId": "2107063269",
+        "name": "Cynthia Gao"
+      },
+      {
+        "authorId": "113810201",
+        "name": "Vishrav Chaudhary"
+      },
+      {
+        "authorId": "2158170998",
+        "name": "Peng-Jen Chen"
+      },
+      {
+        "authorId": "2293203",
+        "name": "Guillaume Wenzek"
+      },
+      {
+        "authorId": "3092435",
+        "name": "Da Ju"
+      },
+      {
+        "authorId": "1491706730",
+        "name": "S. Krishnan"
+      },
+      {
+        "authorId": "1706809",
+        "name": "Marc'Aurelio Ranzato"
+      },
+      {
+        "authorId": "144204682",
+        "name": "Francisco (Paco) Guzmán"
+      },
+      {
+        "authorId": "144270981",
+        "name": "Angela Fan"
+      }
+    ]
+  },
+  {
+    "paperId": "476d79d1f5650c5361104ed468e75bfc4732622d",
+    "title": "Experts, Errors, and Context: A Large-Scale Study of Human Evaluation for Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "35307070",
+        "name": "Markus Freitag"
+      },
+      {
+        "authorId": "2458308",
+        "name": "George F. Foster"
+      },
+      {
+        "authorId": "2529182",
+        "name": "David Grangier"
+      },
+      {
+        "authorId": "3012516",
+        "name": "Viresh Ratnakar"
+      },
+      {
+        "authorId": "2057198366",
+        "name": "Qijun Tan"
+      },
+      {
+        "authorId": "3153147",
+        "name": "Wolfgang Macherey"
+      }
+    ]
+  },
+  {
+    "paperId": "68850153b0210615c86f9a72624f34e2913bcddf",
+    "title": "Document-Level Machine Translation with Large Language Models",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2111542852",
+        "name": "Longyue Wang"
+      },
+      {
+        "authorId": "2082426870",
+        "name": "Chenyang Lyu"
+      },
+      {
+        "authorId": "8022678",
+        "name": "Tianbo Ji"
+      },
+      {
+        "authorId": "4947404",
+        "name": "Zhirui Zhang"
+      },
+      {
+        "authorId": "150978762",
+        "name": "Dian Yu"
+      },
+      {
+        "authorId": "2072684668",
+        "name": "Shuming Shi"
+      },
+      {
+        "authorId": "2909321",
+        "name": "Zhaopeng Tu"
+      }
+    ]
+  },
+  {
+    "paperId": "f04389f20ce73729b05d7eb61c673e435be42d65",
+    "title": "Findings of the 2023 Conference on Machine Translation (WMT23): LLMs Are Here but Not Quite There Yet",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "3452584",
+        "name": "Tom Kocmi"
+      },
+      {
+        "authorId": "2837687",
+        "name": "Eleftherios Avramidis"
+      },
+      {
+        "authorId": "48983885",
+        "name": "Rachel Bawden"
+      },
+      {
+        "authorId": "143832874",
+        "name": "Ondrej Bojar"
+      },
+      {
+        "authorId": "3457077",
+        "name": "Anton Dvorkovich"
+      },
+      {
+        "authorId": "3359291",
+        "name": "C. Federmann"
+      },
+      {
+        "authorId": "2032659",
+        "name": "Mark Fishel"
+      },
+      {
+        "authorId": "2269456766",
+        "name": "Markus Freitag"
+      },
+      {
+        "authorId": "145845766",
+        "name": "Thamme Gowda"
+      },
+      {
+        "authorId": "3272639",
+        "name": "Roman Grundkiewicz"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "2269459146",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "2269457059",
+        "name": "Benjamin Marie"
+      },
+      {
+        "authorId": "2062908179",
+        "name": "C. Monz"
+      },
+      {
+        "authorId": "2731589",
+        "name": "Makoto Morishita"
+      },
+      {
+        "authorId": "2253405580",
+        "name": "Kenton Murray"
+      },
+      {
+        "authorId": "2249390149",
+        "name": "Makoto Nagata"
+      },
+      {
+        "authorId": "2269458079",
+        "name": "T. Nakazawa"
+      },
+      {
+        "authorId": "3209310",
+        "name": "M. Popel"
+      },
+      {
+        "authorId": "2259498828",
+        "name": "Maja Popovic"
+      },
+      {
+        "authorId": "2269459605",
+        "name": "Mariya Shmatova"
+      }
+    ]
+  },
+  {
+    "paperId": "eed70db53a05fba20a30a27aac9d9a9984c436c4",
+    "title": "CURE: Code-Aware Neural Machine Translation for Automatic Program Repair",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2057958465",
+        "name": "Nan Jiang"
+      },
+      {
+        "authorId": "2492099",
+        "name": "Thibaud Lutellier"
+      },
+      {
+        "authorId": "2106349652",
+        "name": "Lin Tan"
+      }
+    ]
+  },
+  {
+    "paperId": "9689acb6cb760e8bc21c16f368368b37dee977f9",
+    "title": "Adaptive Machine Translation with Large Language Models",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "9400076",
+        "name": "Yasmin Moslem"
+      },
+      {
+        "authorId": "1748844",
+        "name": "Rejwanul Haque"
+      },
+      {
+        "authorId": "144315616",
+        "name": "Andy Way"
+      }
+    ]
+  },
+  {
+    "paperId": "aab5002a22b9b4244a8329b140bd0a86021aa2d1",
+    "title": "OpenNMT: Open-Source Toolkit for Neural Machine Translation",
+    "year": 2017,
+    "authors": [
+      {
+        "authorId": "39861444",
+        "name": "Guillaume Klein"
+      },
+      {
+        "authorId": "152847918",
+        "name": "Yoon Kim"
+      },
+      {
+        "authorId": "2505751",
+        "name": "Yuntian Deng"
+      },
+      {
+        "authorId": "3053934",
+        "name": "Jean Senellart"
+      },
+      {
+        "authorId": "2531268",
+        "name": "Alexander M. Rush"
+      }
+    ]
+  },
+  {
+    "paperId": "81fa4bd479191424a5cd9c4c7647e34e49c3078b",
+    "title": "A Survey on Evaluation Metrics for Machine Translation",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2144498836",
+        "name": "Seungjun Lee"
+      },
+      {
+        "authorId": "1800111",
+        "name": "Jungseob Lee"
+      },
+      {
+        "authorId": "2101318920",
+        "name": "Hyeonseok Moon"
+      },
+      {
+        "authorId": "2115195904",
+        "name": "Chanjun Park"
+      },
+      {
+        "authorId": "2148452511",
+        "name": "Jaehyung Seo"
+      },
+      {
+        "authorId": "2101320617",
+        "name": "Sugyeong Eo"
+      },
+      {
+        "authorId": "2176399606",
+        "name": "Seonmin Koo"
+      },
+      {
+        "authorId": "83056580",
+        "name": "Heu-Jeoung Lim"
+      }
+    ]
+  },
+  {
+    "paperId": "a486e2839291111bb44fa1f07731ada123539f75",
+    "title": "Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation",
+    "year": 2016,
+    "authors": [
+      {
+        "authorId": "2109675545",
+        "name": "Melvin Johnson"
+      },
+      {
+        "authorId": "144927151",
+        "name": "M. Schuster"
+      },
+      {
+        "authorId": "2827616",
+        "name": "Quoc V. Le"
+      },
+      {
+        "authorId": "2048712",
+        "name": "M. Krikun"
+      },
+      {
+        "authorId": "48607963",
+        "name": "Yonghui Wu"
+      },
+      {
+        "authorId": "2545358",
+        "name": "Z. Chen"
+      },
+      {
+        "authorId": "144203200",
+        "name": "Nikhil Thorat"
+      },
+      {
+        "authorId": "1765169",
+        "name": "F. Viégas"
+      },
+      {
+        "authorId": "145233583",
+        "name": "M. Wattenberg"
+      },
+      {
+        "authorId": "2227182886",
+        "name": "Gregory S. Corrado"
+      },
+      {
+        "authorId": "48342565",
+        "name": "Macduff Hughes"
+      },
+      {
+        "authorId": "2056946837",
+        "name": "Jeffrey Dean"
+      }
+    ]
+  },
+  {
+    "paperId": "828aad53223d29e1bf760116e9651a1237ae8710",
+    "title": "Machine Translation with Large Language Models: Prompting, Few-shot Learning, and Fine-tuning with QLoRA",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2262282047",
+        "name": "Xuan Zhang"
+      },
+      {
+        "authorId": "2297095867",
+        "name": "Navid Rajabi"
+      },
+      {
+        "authorId": "2262241584",
+        "name": "Kevin Duh"
+      },
+      {
+        "authorId": "2264196844",
+        "name": "Philipp Koehn"
+      }
+    ]
+  },
+  {
+    "paperId": "166d1e5361465f8e235747d14641249cbb3b6fd2",
+    "title": "A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2108835452",
+        "name": "Haoran Xu"
+      },
+      {
+        "authorId": "2152658577",
+        "name": "Young Jin Kim"
+      },
+      {
+        "authorId": "2243335598",
+        "name": "Amr Sharaf"
+      },
+      {
+        "authorId": "3032929",
+        "name": "H. Awadalla"
+      }
+    ]
+  },
+  {
+    "paperId": "3b16a709a5b18e52b0b6741cbc3c0e68a03ecd8e",
+    "title": "The unreasonable effectiveness of few-shot learning for machine translation",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "143936294",
+        "name": "Xavier García"
+      },
+      {
+        "authorId": "51041277",
+        "name": "Yamini Bansal"
+      },
+      {
+        "authorId": "144507724",
+        "name": "Colin Cherry"
+      },
+      {
+        "authorId": "2458308",
+        "name": "George F. Foster"
+      },
+      {
+        "authorId": "2048712",
+        "name": "M. Krikun"
+      },
+      {
+        "authorId": "2086971823",
+        "name": "Fan Feng"
+      },
+      {
+        "authorId": "145657834",
+        "name": "Melvin Johnson"
+      },
+      {
+        "authorId": "2345617",
+        "name": "Orhan Firat"
+      }
+    ]
+  },
+  {
+    "paperId": "8d188daf721fde8de4877718e96f89ae9d7a1925",
+    "title": "Findings of the 2022 Conference on Machine Translation (WMT22)",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "3452584",
+        "name": "Tom Kocmi"
+      },
+      {
+        "authorId": "48983885",
+        "name": "Rachel Bawden"
+      },
+      {
+        "authorId": "143832874",
+        "name": "Ondrej Bojar"
+      },
+      {
+        "authorId": "3457077",
+        "name": "Anton Dvorkovich"
+      },
+      {
+        "authorId": "3359291",
+        "name": "C. Federmann"
+      },
+      {
+        "authorId": "2032659",
+        "name": "Mark Fishel"
+      },
+      {
+        "authorId": "145845766",
+        "name": "Thamme Gowda"
+      },
+      {
+        "authorId": "2000709",
+        "name": "Yvette Graham"
+      },
+      {
+        "authorId": "3272639",
+        "name": "Roman Grundkiewicz"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "47511705",
+        "name": "Rebecca Knowles"
+      },
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "2062908179",
+        "name": "C. Monz"
+      },
+      {
+        "authorId": "2731589",
+        "name": "Makoto Morishita"
+      },
+      {
+        "authorId": "2364073",
+        "name": "M. Nagata"
+      },
+      {
+        "authorId": "40948140",
+        "name": "Toshiaki Nakazawa"
+      },
+      {
+        "authorId": "144299546",
+        "name": "M. Novák"
+      },
+      {
+        "authorId": "3209310",
+        "name": "M. Popel"
+      },
+      {
+        "authorId": "2487502",
+        "name": "Maja Popovic"
+      }
+    ]
+  },
+  {
+    "paperId": "fb3d4e53fd3ac818f86d1cd32cb7423a64fc6cfe",
+    "title": "Benchmarking Machine Translation with Cultural Awareness",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2166137151",
+        "name": "Binwei Yao"
+      },
+      {
+        "authorId": "2152153638",
+        "name": "Ming Jiang"
+      },
+      {
+        "authorId": "2143919864",
+        "name": "Diyi Yang"
+      },
+      {
+        "authorId": "2149221827",
+        "name": "Junjie Hu"
+      }
+    ]
+  },
+  {
+    "paperId": "9b00bbe822fc98d00dcb32a32b7ff986b6b58d3e",
+    "title": "Transformer: A General Framework from Machine Translation to Others",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "145940718",
+        "name": "Yang Zhao"
+      },
+      {
+        "authorId": "38358352",
+        "name": "Jiajun Zhang"
+      },
+      {
+        "authorId": "2064100826",
+        "name": "Chengqing Zong"
+      }
+    ]
+  },
+  {
+    "paperId": "515cf674fcdced5a7d5bb156dd5fcc1f5290e79b",
+    "title": "In-context Examples Selection for Machine Translation",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "5112699",
+        "name": "Sweta Agrawal"
+      },
+      {
+        "authorId": "2384711",
+        "name": "Chunting Zhou"
+      },
+      {
+        "authorId": "35084211",
+        "name": "M. Lewis"
+      },
+      {
+        "authorId": "1982950",
+        "name": "Luke Zettlemoyer"
+      },
+      {
+        "authorId": "2320509",
+        "name": "Marjan Ghazvininejad"
+      }
+    ]
+  },
+  {
+    "paperId": "50c38435e38c227e9e8917f67aa6e0aca915b544",
+    "title": "Neural Machine Translation for Low-resource Languages: A Survey",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "143976433",
+        "name": "Surangika Ranathunga"
+      },
+      {
+        "authorId": "1783393",
+        "name": "E. Lee"
+      },
+      {
+        "authorId": "2375548",
+        "name": "M. Skenduli"
+      },
+      {
+        "authorId": "145543514",
+        "name": "Ravi Shekhar"
+      },
+      {
+        "authorId": "153494079",
+        "name": "Mehreen Alam"
+      },
+      {
+        "authorId": "2219019",
+        "name": "Rishemjit Kaur"
+      }
+    ]
+  },
+  {
+    "paperId": "687b13c44f849d23c2496996b5da83e706094db9",
+    "title": "Beyond English-Centric Multilingual Machine Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "144270981",
+        "name": "Angela Fan"
+      },
+      {
+        "authorId": "2116473",
+        "name": "Shruti Bhosale"
+      },
+      {
+        "authorId": "144518416",
+        "name": "Holger Schwenk"
+      },
+      {
+        "authorId": "1736107",
+        "name": "Zhiyi Ma"
+      },
+      {
+        "authorId": "1398503968",
+        "name": "Ahmed El-Kishky"
+      },
+      {
+        "authorId": "3322061",
+        "name": "Siddharth Goyal"
+      },
+      {
+        "authorId": "1999888435",
+        "name": "Mandeep Baines"
+      },
+      {
+        "authorId": "2061077885",
+        "name": "Onur Çelebi"
+      },
+      {
+        "authorId": "2293203",
+        "name": "Guillaume Wenzek"
+      },
+      {
+        "authorId": "113810201",
+        "name": "Vishrav Chaudhary"
+      },
+      {
+        "authorId": "39589154",
+        "name": "Naman Goyal"
+      },
+      {
+        "authorId": "2066997456",
+        "name": "Tom Birch"
+      },
+      {
+        "authorId": "1680679",
+        "name": "Vitaliy Liptchinsky"
+      },
+      {
+        "authorId": "2068070",
+        "name": "Sergey Edunov"
+      },
+      {
+        "authorId": "3024698",
+        "name": "Edouard Grave"
+      },
+      {
+        "authorId": "2325985",
+        "name": "Michael Auli"
+      },
+      {
+        "authorId": "2319608",
+        "name": "Armand Joulin"
+      }
+    ]
+  },
+  {
+    "paperId": "66de7ac94dd13ec041659b06041c6ff27b1e55f2",
+    "title": "Building Machine Translation Systems for the Next Thousand Languages",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "12295226",
+        "name": "Ankur Bapna"
+      },
+      {
+        "authorId": "73769795",
+        "name": "Isaac Caswell"
+      },
+      {
+        "authorId": "3422710",
+        "name": "Julia Kreutzer"
+      },
+      {
+        "authorId": "2345617",
+        "name": "Orhan Firat"
+      },
+      {
+        "authorId": "8775666",
+        "name": "D. Esch"
+      },
+      {
+        "authorId": "9356387",
+        "name": "Aditya Siddhant"
+      },
+      {
+        "authorId": "2024268002",
+        "name": "Mengmeng Niu"
+      },
+      {
+        "authorId": "3331832",
+        "name": "P. Baljekar"
+      },
+      {
+        "authorId": "143936294",
+        "name": "Xavier García"
+      },
+      {
+        "authorId": "3153147",
+        "name": "Wolfgang Macherey"
+      },
+      {
+        "authorId": "2990104",
+        "name": "Theresa Breiner"
+      },
+      {
+        "authorId": "82840075",
+        "name": "Vera Axelrod"
+      },
+      {
+        "authorId": "2909504",
+        "name": "Jason Riesa"
+      },
+      {
+        "authorId": "145144022",
+        "name": "Yuan Cao"
+      },
+      {
+        "authorId": "48623026",
+        "name": "M. Chen"
+      },
+      {
+        "authorId": "113439369",
+        "name": "Klaus Macherey"
+      },
+      {
+        "authorId": "2048712",
+        "name": "M. Krikun"
+      },
+      {
+        "authorId": "2164862499",
+        "name": "Pidong Wang"
+      },
+      {
+        "authorId": "2064159126",
+        "name": "Alexander Gutkin"
+      },
+      {
+        "authorId": "145825976",
+        "name": "Apurva Shah"
+      },
+      {
+        "authorId": "2145438541",
+        "name": "Yanping Huang"
+      },
+      {
+        "authorId": "2545358",
+        "name": "Z. Chen"
+      },
+      {
+        "authorId": "48607963",
+        "name": "Yonghui Wu"
+      },
+      {
+        "authorId": "48342565",
+        "name": "Macduff Hughes"
+      }
+    ]
+  },
+  {
+    "paperId": "db3ba4d9ca633821d73fde341b30f795944536e1",
+    "title": "On Vision Features in Multimodal Machine Translation",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "49730090",
+        "name": "Bei Li"
+      },
+      {
+        "authorId": "2149558931",
+        "name": "Chuanhao Lv"
+      },
+      {
+        "authorId": "1490778009",
+        "name": "Zefan Zhou"
+      },
+      {
+        "authorId": "2114111757",
+        "name": "Tao Zhou"
+      },
+      {
+        "authorId": "1391183811",
+        "name": "Tong Xiao"
+      },
+      {
+        "authorId": "2159204916",
+        "name": "Anxiang Ma"
+      },
+      {
+        "authorId": "1728004",
+        "name": "Jingbo Zhu"
+      }
+    ]
+  },
+  {
+    "paperId": "67dc33f02c8b5f24cd213b6b5fb5c74cead581aa",
+    "title": "A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "152678922",
+        "name": "Yisheng Xiao"
+      },
+      {
+        "authorId": "47767550",
+        "name": "Lijun Wu"
+      },
+      {
+        "authorId": "13838086",
+        "name": "Junliang Guo"
+      },
+      {
+        "authorId": "2257093356",
+        "name": "Juntao Li"
+      },
+      {
+        "authorId": "39767557",
+        "name": "M. Zhang"
+      },
+      {
+        "authorId": "143826491",
+        "name": "Tao Qin"
+      },
+      {
+        "authorId": "2110264337",
+        "name": "Tie-Yan Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "fd90bcf5e48f6946e71a24b06734b79bd3260843",
+    "title": "Video Pivoting Unsupervised Multi-Modal Machine Translation",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2112119367",
+        "name": "Mingjie Li"
+      },
+      {
+        "authorId": "2319973",
+        "name": "Po-Yao (Bernie) Huang"
+      },
+      {
+        "authorId": "144950946",
+        "name": "Xiaojun Chang"
+      },
+      {
+        "authorId": "2149221827",
+        "name": "Junjie Hu"
+      },
+      {
+        "authorId": "1698559",
+        "name": "Yi Yang"
+      },
+      {
+        "authorId": "145788702",
+        "name": "A. Hauptmann"
+      }
+    ]
+  },
+  {
+    "paperId": "494579d12e035bb618d5097ac20b249b9f5e226a",
+    "title": "Democratizing neural machine translation with OPUS-MT",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "143675545",
+        "name": "J. Tiedemann"
+      },
+      {
+        "authorId": "35337821",
+        "name": "Mikko Aulamo"
+      },
+      {
+        "authorId": "2391573254",
+        "name": "Daria Bakshandaeva"
+      },
+      {
+        "authorId": "102872015",
+        "name": "M. Boggia"
+      },
+      {
+        "authorId": "1438306994",
+        "name": "Stig-Arne Gronroos"
+      },
+      {
+        "authorId": "152991283",
+        "name": "Tommi Nieminen"
+      },
+      {
+        "authorId": "3106437",
+        "name": "Alessandro Raganato"
+      },
+      {
+        "authorId": "3080637",
+        "name": "Yves Scherrer"
+      },
+      {
+        "authorId": "119942558",
+        "name": "Raúl Vázquez"
+      },
+      {
+        "authorId": "3057578",
+        "name": "Sami Virpioja"
+      }
+    ]
+  },
+  {
+    "paperId": "32a3b3f7e20546deaa4ed87c66e793a4b5d81310",
+    "title": "Overcoming Language Barriers in Academia: Machine Translation Tools and a Vision for a Multilingual Future",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "87857148",
+        "name": "Emma Steigerwald"
+      },
+      {
+        "authorId": "1422161077",
+        "name": "Valeria Ramírez-Castañeda"
+      },
+      {
+        "authorId": "38337796",
+        "name": "Débora Y. C. Brandt"
+      },
+      {
+        "authorId": "2299644206",
+        "name": "András Báldi"
+      },
+      {
+        "authorId": "32560682",
+        "name": "J. Shapiro"
+      },
+      {
+        "authorId": "10260115",
+        "name": "Lynne Bowker"
+      },
+      {
+        "authorId": "20811301",
+        "name": "Rebecca D. Tarvin"
+      }
+    ]
+  },
+  {
+    "paperId": "f3e6ee6b93f0730a53852b6bc503fb1930c24442",
+    "title": "Creativity in translation: machine translation as a constraint for literary texts",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "1899559",
+        "name": "Ana Guerberof Arenas"
+      },
+      {
+        "authorId": "2065048323",
+        "name": "Antonio Toral"
+      }
+    ]
+  },
+  {
+    "paperId": "4789355a00650afa29682d331d7d9a49a301b43b",
+    "title": "Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2301113102",
+        "name": "Biao Zhang"
+      },
+      {
+        "authorId": "2263657966",
+        "name": "Philip Williams"
+      },
+      {
+        "authorId": "2260400700",
+        "name": "Ivan Titov"
+      },
+      {
+        "authorId": "2371989866",
+        "name": "Rico Sennrich"
+      }
+    ]
+  },
+  {
+    "paperId": "2ab295108a20976f3f5c9ed986b64c24838d7f4a",
+    "title": "Gender Bias in Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1741330216",
+        "name": "Beatrice Savoldi"
+      },
+      {
+        "authorId": "1736801422",
+        "name": "Marco Gaido"
+      },
+      {
+        "authorId": "2486762",
+        "name": "L. Bentivogli"
+      },
+      {
+        "authorId": "2138026",
+        "name": "Matteo Negri"
+      },
+      {
+        "authorId": "145862931",
+        "name": "Marco Turchi"
+      }
+    ]
+  },
+  {
+    "paperId": "56665fd91f7d05842380fe0f928461d66f10c5de",
+    "title": "Contrastive Learning for Many-to-many Multilingual Neural Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2115623100",
+        "name": "Xiao Pan"
+      },
+      {
+        "authorId": "50468534",
+        "name": "Mingxuan Wang"
+      },
+      {
+        "authorId": "2326354157",
+        "name": "Liwei Wu"
+      },
+      {
+        "authorId": "143900005",
+        "name": "Lei Li"
+      }
+    ]
+  },
+  {
+    "paperId": "8b7bfd0d0998a3d5407b03882d1171d78bf98a65",
+    "title": "To Ship or Not to Ship: An Extensive Evaluation of Automatic Metrics for Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "3452584",
+        "name": "Tom Kocmi"
+      },
+      {
+        "authorId": "3359291",
+        "name": "C. Federmann"
+      },
+      {
+        "authorId": "3272639",
+        "name": "Roman Grundkiewicz"
+      },
+      {
+        "authorId": "1733933",
+        "name": "Marcin Junczys-Dowmunt"
+      },
+      {
+        "authorId": "1909626",
+        "name": "Hitokazu Matsushita"
+      },
+      {
+        "authorId": "145280401",
+        "name": "Arul Menezes"
+      }
+    ]
+  },
+  {
+    "paperId": "6d41412cfb7e596c0551543c2b9aaee769a8ee8c",
+    "title": "A Comprehensive Survey on Various Fully Automatic Machine Translation Evaluation Metrics",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "153769552",
+        "name": "S. Chauhan"
+      },
+      {
+        "authorId": "2066219046",
+        "name": "Philemon Daniel"
+      }
+    ]
+  },
+  {
+    "paperId": "ec4490055de38e9fba38f6ac9ef50d9205df5067",
+    "title": "Findings of the 2021 Conference on Machine Translation (WMT21)",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2813801",
+        "name": "Farhad Akhbardeh"
+      },
+      {
+        "authorId": "7572177",
+        "name": "Arkady Arkhangorodsky"
+      },
+      {
+        "authorId": "1417317763",
+        "name": "Magdalena Biesialska"
+      },
+      {
+        "authorId": "143832874",
+        "name": "Ondrej Bojar"
+      },
+      {
+        "authorId": "3292652",
+        "name": "Rajen Chatterjee"
+      },
+      {
+        "authorId": "113810201",
+        "name": "Vishrav Chaudhary"
+      },
+      {
+        "authorId": "1398996347",
+        "name": "M. Costa-jussà"
+      },
+      {
+        "authorId": "1402921001",
+        "name": "C. España-Bonet"
+      },
+      {
+        "authorId": "144270981",
+        "name": "Angela Fan"
+      },
+      {
+        "authorId": "3359291",
+        "name": "C. Federmann"
+      },
+      {
+        "authorId": "35307070",
+        "name": "Markus Freitag"
+      },
+      {
+        "authorId": "2000709",
+        "name": "Yvette Graham"
+      },
+      {
+        "authorId": "3272639",
+        "name": "Roman Grundkiewicz"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "2121374167",
+        "name": "Leonie Harter"
+      },
+      {
+        "authorId": "1702066",
+        "name": "Kenneth Heafield"
+      },
+      {
+        "authorId": "2300795",
+        "name": "Christopher Homan"
+      },
+      {
+        "authorId": "1839533",
+        "name": "Matthias Huck"
+      },
+      {
+        "authorId": "1443832286",
+        "name": "Kwabena Amponsah-Kaakyire"
+      },
+      {
+        "authorId": "11348687",
+        "name": "Jungo Kasai"
+      },
+      {
+        "authorId": "1783281",
+        "name": "Daniel Khashabi"
+      },
+      {
+        "authorId": "152971314",
+        "name": "Kevin Knight"
+      },
+      {
+        "authorId": "3452584",
+        "name": "Tom Kocmi"
+      },
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "35219984",
+        "name": "Nicholas Lourie"
+      },
+      {
+        "authorId": "1696402",
+        "name": "Christof Monz"
+      },
+      {
+        "authorId": "2731589",
+        "name": "Makoto Morishita"
+      },
+      {
+        "authorId": "2364073",
+        "name": "M. Nagata"
+      },
+      {
+        "authorId": "145773546",
+        "name": "Ajay Nagesh"
+      },
+      {
+        "authorId": "40948140",
+        "name": "Toshiaki Nakazawa"
+      },
+      {
+        "authorId": "2138026",
+        "name": "Matteo Negri"
+      },
+      {
+        "authorId": "145244784",
+        "name": "Santanu Pal"
+      },
+      {
+        "authorId": "1602867250",
+        "name": "A. Tapo"
+      },
+      {
+        "authorId": "145862931",
+        "name": "Marco Turchi"
+      },
+      {
+        "authorId": "3367476",
+        "name": "V. Vydrin"
+      },
+      {
+        "authorId": "145130358",
+        "name": "Marcos Zampieri"
+      }
+    ]
+  },
+  {
+    "paperId": "143cd4b4717651caf276c7256502dc491454e197",
+    "title": "The Curious Case of Hallucinations in Neural Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "24025563",
+        "name": "Vikas Raunak"
+      },
+      {
+        "authorId": "145280401",
+        "name": "Arul Menezes"
+      },
+      {
+        "authorId": "1733933",
+        "name": "Marcin Junczys-Dowmunt"
+      }
+    ]
+  },
+  {
+    "paperId": "0857bff865fd772d34566f62e0ff698e7d0717aa",
+    "title": "Survey of Low-Resource Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "48983885",
+        "name": "Rachel Bawden"
+      },
+      {
+        "authorId": "3282877",
+        "name": "Antonio Valerio Miceli Barone"
+      },
+      {
+        "authorId": "46407634",
+        "name": "Jindřich Helcl"
+      },
+      {
+        "authorId": "2539211",
+        "name": "Alexandra Birch"
+      }
+    ]
+  },
+  {
+    "paperId": "7472f26ffa0f056a70e461d6918ae5ffecda2c92",
+    "title": "Directed Acyclic Transformer for Non-Autoregressive Machine Translation",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "152159016",
+        "name": "Fei Huang"
+      },
+      {
+        "authorId": "144751955",
+        "name": "Hao Zhou"
+      },
+      {
+        "authorId": "2152797462",
+        "name": "Yang Liu"
+      },
+      {
+        "authorId": "2145573586",
+        "name": "Hanguang Li"
+      },
+      {
+        "authorId": "2196818501",
+        "name": "Minlie Huang"
+      }
+    ]
+  },
+  {
+    "paperId": "dc373d5e108a90a70f55285a852a32706adbeb45",
+    "title": "NEURAL MACHINE TRANSLATION",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "151068900",
+        "name": "Jinhua Zhu"
+      },
+      {
+        "authorId": "2794096",
+        "name": "Yingce Xia"
+      },
+      {
+        "authorId": "47767791",
+        "name": "Lijun Wu"
+      },
+      {
+        "authorId": "1391126980",
+        "name": "Di He"
+      },
+      {
+        "authorId": "143826491",
+        "name": "Tao Qin"
+      },
+      {
+        "authorId": "38272296",
+        "name": "Wen-gang Zhou"
+      },
+      {
+        "authorId": "2144406784",
+        "name": "Houqiang Li"
+      },
+      {
+        "authorId": "2110264337",
+        "name": "Tie-Yan Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "3e32139deb17761a25075f8839daa61ad5992fc9",
+    "title": "Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "151114702",
+        "name": "Mozhdeh Gheini"
+      },
+      {
+        "authorId": "1384550891",
+        "name": "Xiang Ren"
+      },
+      {
+        "authorId": "143823227",
+        "name": "Jonathan May"
+      }
+    ]
+  },
+  {
+    "paperId": "15e81c8d1c21f9e928c72721ac46d458f3341454",
+    "title": "Non-Autoregressive Neural Machine Translation",
+    "year": 2017,
+    "authors": [
+      {
+        "authorId": "3016273",
+        "name": "Jiatao Gu"
+      },
+      {
+        "authorId": "40518045",
+        "name": "James Bradbury"
+      },
+      {
+        "authorId": "2228109",
+        "name": "Caiming Xiong"
+      },
+      {
+        "authorId": "2052674293",
+        "name": "V. Li"
+      },
+      {
+        "authorId": "2166511",
+        "name": "R. Socher"
+      }
+    ]
+  },
+  {
+    "paperId": "e3d772986d176057aca2f5e3eb783da53b559134",
+    "title": "Unsupervised Machine Translation Using Monolingual Corpora Only",
+    "year": 2017,
+    "authors": [
+      {
+        "authorId": "1830914",
+        "name": "Guillaume Lample"
+      },
+      {
+        "authorId": "8905591",
+        "name": "Ludovic Denoyer"
+      },
+      {
+        "authorId": "1706809",
+        "name": "Marc'Aurelio Ranzato"
+      }
+    ]
+  },
+  {
+    "paperId": "df2f4e150765ce15cd7956266d8d958b37676201",
+    "title": "Natural Language to Visualization by Neural Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "3462170",
+        "name": "Yuyu Luo"
+      },
+      {
+        "authorId": "8669763",
+        "name": "N. Tang"
+      },
+      {
+        "authorId": "47949377",
+        "name": "Guoliang Li"
+      },
+      {
+        "authorId": "2152778938",
+        "name": "Jiawei Tang"
+      },
+      {
+        "authorId": "1720852203",
+        "name": "Chengliang Chai"
+      },
+      {
+        "authorId": "40774672",
+        "name": "Xuedi Qin"
+      }
+    ]
+  },
+  {
+    "paperId": "7ce8cc2b9feec55d5c3f4376e25f75e7c11ee579",
+    "title": "Machine translation systems and quality assessment: a systematic review",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1414044529",
+        "name": "Irene Rivera-Trigueros"
+      }
+    ]
+  },
+  {
+    "paperId": "106d5e0cf44ea08500adc91c4d5bb3e6c8a4d627",
+    "title": "Six Challenges for Neural Machine Translation",
+    "year": 2017,
+    "authors": [
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "47511705",
+        "name": "Rebecca Knowles"
+      }
+    ]
+  },
+  {
+    "paperId": "f9c2127e745a73e34f93e2090bb385adbc74c775",
+    "title": "A survey on Sign Language machine translation",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "1411145124",
+        "name": "Adrián Núñez-Marcos"
+      },
+      {
+        "authorId": "1403914079",
+        "name": "Olatz Perez-de-Viñaspre"
+      },
+      {
+        "authorId": "2064469779",
+        "name": "Gorka Labaka"
+      }
+    ]
+  },
+  {
+    "paperId": "f28208f6847012f986c4ce63b34236284e65407c",
+    "title": "Machine Translationese: Effects of Algorithmic Bias on Linguistic Complexity in Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "32380598",
+        "name": "Eva Vanmassenhove"
+      },
+      {
+        "authorId": "2848410",
+        "name": "D. Shterionov"
+      },
+      {
+        "authorId": "35543474",
+        "name": "M. Gwilliam"
+      }
+    ]
+  },
+  {
+    "paperId": "6551ba18a52809f057518f3ebc627c77689bfc93",
+    "title": "Adaptive Nearest Neighbor Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2143712892",
+        "name": "Xin Zheng"
+      },
+      {
+        "authorId": "4947404",
+        "name": "Zhirui Zhang"
+      },
+      {
+        "authorId": "2117224175",
+        "name": "Junliang Guo"
+      },
+      {
+        "authorId": "2046010",
+        "name": "Shujian Huang"
+      },
+      {
+        "authorId": "2152687324",
+        "name": "Boxing Chen"
+      },
+      {
+        "authorId": "1935569",
+        "name": "Weihua Luo"
+      },
+      {
+        "authorId": "1838162",
+        "name": "Jiajun Chen"
+      }
+    ]
+  },
+  {
+    "paperId": "73ee65c312e64d7c5e581d55082d61c0f26707fb",
+    "title": "Neural Machine Translation with Monolingual Translation Memory",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "46689291",
+        "name": "Deng Cai"
+      },
+      {
+        "authorId": "2152546690",
+        "name": "Yan Wang"
+      },
+      {
+        "authorId": "91956362",
+        "name": "Huayang Li"
+      },
+      {
+        "authorId": "144594306",
+        "name": "Wai Lam"
+      },
+      {
+        "authorId": "2978364",
+        "name": "Lemao Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "ee8848f3f6a08e80ff08a1093f78b3f7a3d84f37",
+    "title": "A Survey on Document-level Neural Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1933516",
+        "name": "Sameen Maruf"
+      },
+      {
+        "authorId": "9120873",
+        "name": "Fahimeh Saleh"
+      },
+      {
+        "authorId": "2561045",
+        "name": "Gholamreza Haffari"
+      }
+    ]
+  },
+  {
+    "paperId": "de1fdaf92488f2f33ddc0272628c8543778d0da9",
+    "title": "Scaling Laws for Neural Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "47475538",
+        "name": "B. Ghorbani"
+      },
+      {
+        "authorId": "2345617",
+        "name": "Orhan Firat"
+      },
+      {
+        "authorId": "35307070",
+        "name": "Markus Freitag"
+      },
+      {
+        "authorId": "12295226",
+        "name": "Ankur Bapna"
+      },
+      {
+        "authorId": "2048712",
+        "name": "M. Krikun"
+      },
+      {
+        "authorId": "143936294",
+        "name": "Xavier García"
+      },
+      {
+        "authorId": "1802969",
+        "name": "Ciprian Chelba"
+      },
+      {
+        "authorId": "144507724",
+        "name": "Colin Cherry"
+      }
+    ]
+  },
+  {
+    "paperId": "c17985a669522e7e85ae3d34754c7df49c7187d1",
+    "title": "Massively Multilingual Neural Machine Translation in the Wild: Findings and Challenges",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "3365231",
+        "name": "N. Arivazhagan"
+      },
+      {
+        "authorId": "12295226",
+        "name": "Ankur Bapna"
+      },
+      {
+        "authorId": "2345617",
+        "name": "Orhan Firat"
+      },
+      {
+        "authorId": "150077954",
+        "name": "Dmitry Lepikhin"
+      },
+      {
+        "authorId": "145657834",
+        "name": "Melvin Johnson"
+      },
+      {
+        "authorId": "2048712",
+        "name": "M. Krikun"
+      },
+      {
+        "authorId": "48623026",
+        "name": "M. Chen"
+      },
+      {
+        "authorId": "145144022",
+        "name": "Yuan Cao"
+      },
+      {
+        "authorId": "2458308",
+        "name": "George F. Foster"
+      },
+      {
+        "authorId": "144507724",
+        "name": "Colin Cherry"
+      },
+      {
+        "authorId": "3153147",
+        "name": "Wolfgang Macherey"
+      },
+      {
+        "authorId": "2545358",
+        "name": "Z. Chen"
+      },
+      {
+        "authorId": "48607963",
+        "name": "Yonghui Wu"
+      }
+    ]
+  },
+  {
+    "paperId": "88bd75ce3ce22ed85bf9271877aa85da7b7bb312",
+    "title": "Massively Multilingual Neural Machine Translation",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "2335771",
+        "name": "Roee Aharoni"
+      },
+      {
+        "authorId": "145657834",
+        "name": "Melvin Johnson"
+      },
+      {
+        "authorId": "2345617",
+        "name": "Orhan Firat"
+      }
+    ]
+  },
+  {
+    "paperId": "4355a422890673a5ca7c6dd1b3939307a2b8c564",
+    "title": "Context based machine translation with recurrent neural network for English–Amharic translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1580698893",
+        "name": "Y. Ashengo"
+      },
+      {
+        "authorId": "3023548",
+        "name": "Rosa Tsegaye Aga"
+      },
+      {
+        "authorId": "1780562",
+        "name": "S. Abebe"
+      }
+    ]
+  },
+  {
+    "paperId": "ea3e18c7b10a137d495054682c055a80b5be768c",
+    "title": "Findings of the 2019 Conference on Machine Translation (WMT19)",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "2934336",
+        "name": "Loïc Barrault"
+      },
+      {
+        "authorId": "143832874",
+        "name": "Ondrej Bojar"
+      },
+      {
+        "authorId": "1398996347",
+        "name": "M. Costa-jussà"
+      },
+      {
+        "authorId": "3359291",
+        "name": "C. Federmann"
+      },
+      {
+        "authorId": "2032659",
+        "name": "Mark Fishel"
+      },
+      {
+        "authorId": "2000709",
+        "name": "Yvette Graham"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "1839533",
+        "name": "Matthias Huck"
+      },
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "2854981",
+        "name": "S. Malmasi"
+      },
+      {
+        "authorId": "1696402",
+        "name": "Christof Monz"
+      },
+      {
+        "authorId": "144529826",
+        "name": "Mathias Müller"
+      },
+      {
+        "authorId": "145244784",
+        "name": "Santanu Pal"
+      },
+      {
+        "authorId": "38842528",
+        "name": "Matt Post"
+      },
+      {
+        "authorId": "145130358",
+        "name": "Marcos Zampieri"
+      }
+    ]
+  },
+  {
+    "paperId": "a39398f68ae7e042f2ef5009e31b4e6a20fd5736",
+    "title": "Learning Deep Transformer Models for Machine Translation",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "2183631046",
+        "name": "Qiang Wang"
+      },
+      {
+        "authorId": "49730090",
+        "name": "Bei Li"
+      },
+      {
+        "authorId": "1391183811",
+        "name": "Tong Xiao"
+      },
+      {
+        "authorId": "1728004",
+        "name": "Jingbo Zhu"
+      },
+      {
+        "authorId": "2348067",
+        "name": "Changliang Li"
+      },
+      {
+        "authorId": "1758353",
+        "name": "Derek F. Wong"
+      },
+      {
+        "authorId": "1774304",
+        "name": "Lidia S. Chao"
+      }
+    ]
+  },
+  {
+    "paperId": "1670a07b70f90cc4ddba71343e6a7ee4b5198595",
+    "title": "Evaluating Gender Bias in Machine Translation",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "2157025",
+        "name": "Gabriel Stanovsky"
+      },
+      {
+        "authorId": "144365875",
+        "name": "Noah A. Smith"
+      },
+      {
+        "authorId": "1982950",
+        "name": "Luke Zettlemoyer"
+      }
+    ]
+  },
+  {
+    "paperId": "48530f3d6425f2f150f07ccdd61ba951951a0a7d",
+    "title": "Simple, Scalable Adaptation for Neural Machine Translation",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "12295226",
+        "name": "Ankur Bapna"
+      },
+      {
+        "authorId": "3365231",
+        "name": "N. Arivazhagan"
+      },
+      {
+        "authorId": "2345617",
+        "name": "Orhan Firat"
+      }
+    ]
+  },
+  {
+    "paperId": "4ea0aa6838fd794413e1a92a3c0865a1bc0c1059",
+    "title": "Machine translation from text to sign language: a systematic review",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "72631662",
+        "name": "Navroz Kaur Kahlon"
+      },
+      {
+        "authorId": "145098936",
+        "name": "Williamjeet Singh"
+      }
+    ]
+  },
+  {
+    "paperId": "9013c24656fc6bb565d592455fb3cd87a112f8f8",
+    "title": "Progress in Machine Translation",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "144270731",
+        "name": "Haifeng Wang"
+      },
+      {
+        "authorId": "40354707",
+        "name": "Hua Wu"
+      },
+      {
+        "authorId": "37985966",
+        "name": "Zhongjun He"
+      },
+      {
+        "authorId": "48545084",
+        "name": "Liang Huang"
+      },
+      {
+        "authorId": "1737832816",
+        "name": "K. Church"
+      }
+    ]
+  },
+  {
+    "paperId": "0157dcd6122c20b5afc359a799b2043453471f7f",
+    "title": "Exploiting Similarities among Languages for Machine Translation",
+    "year": 2013,
+    "authors": [
+      {
+        "authorId": "2047446108",
+        "name": "Tomas Mikolov"
+      },
+      {
+        "authorId": "2827616",
+        "name": "Quoc V. Le"
+      },
+      {
+        "authorId": "1701686",
+        "name": "I. Sutskever"
+      }
+    ]
+  },
+  {
+    "paperId": "20d51f8e449b59c7e140f7a7eec9ab4d4d6f80ea",
+    "title": "Nearest Neighbor Machine Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "3030219",
+        "name": "Urvashi Khandelwal"
+      },
+      {
+        "authorId": "144270981",
+        "name": "Angela Fan"
+      },
+      {
+        "authorId": "1746807",
+        "name": "Dan Jurafsky"
+      },
+      {
+        "authorId": "1982950",
+        "name": "Luke Zettlemoyer"
+      },
+      {
+        "authorId": "35084211",
+        "name": "M. Lewis"
+      }
+    ]
+  },
+  {
+    "paperId": "780b2c43f596ba072abeb04a771606b4d8c2a935",
+    "title": "Fast and Accurate Neural Machine Translation with Translation Memory",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2152882272",
+        "name": "Qiuxiang He"
+      },
+      {
+        "authorId": "12875501",
+        "name": "Guoping Huang"
+      },
+      {
+        "authorId": "2057040490",
+        "name": "Qu Cui"
+      },
+      {
+        "authorId": "2156062700",
+        "name": "Li Li"
+      },
+      {
+        "authorId": "2978364",
+        "name": "Lemao Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "8ae3421420ec57d551ef2f524b48dcc78f9337fc",
+    "title": "Unsupervised Quality Estimation for Neural Machine Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2006017",
+        "name": "M. Fomicheva"
+      },
+      {
+        "authorId": "2115306932",
+        "name": "Shuo Sun"
+      },
+      {
+        "authorId": "78447404",
+        "name": "L. Yankovskaya"
+      },
+      {
+        "authorId": "1948646",
+        "name": "F. Blain"
+      },
+      {
+        "authorId": "144204682",
+        "name": "Francisco (Paco) Guzmán"
+      },
+      {
+        "authorId": "2032659",
+        "name": "Mark Fishel"
+      },
+      {
+        "authorId": "3238627",
+        "name": "Nikolaos Aletras"
+      },
+      {
+        "authorId": "113810201",
+        "name": "Vishrav Chaudhary"
+      },
+      {
+        "authorId": "1702974",
+        "name": "Lucia Specia"
+      }
+    ]
+  },
+  {
+    "paperId": "c2a7afbb5609a723f8eea91bfde4b02579b048d6",
+    "title": "Unsupervised Neural Machine Translation",
+    "year": 2017,
+    "authors": [
+      {
+        "authorId": "2347956",
+        "name": "Mikel Artetxe"
+      },
+      {
+        "authorId": "3255091",
+        "name": "Gorka Labaka"
+      },
+      {
+        "authorId": "1733049",
+        "name": "Eneko Agirre"
+      },
+      {
+        "authorId": "1979489",
+        "name": "Kyunghyun Cho"
+      }
+    ]
+  },
+  {
+    "paperId": "48925fef94500cf19ee220ed74217816f1ab5e60",
+    "title": "Phrase-Based & Neural Unsupervised Machine Translation",
+    "year": 2018,
+    "authors": [
+      {
+        "authorId": "1830914",
+        "name": "Guillaume Lample"
+      },
+      {
+        "authorId": "40511414",
+        "name": "Myle Ott"
+      },
+      {
+        "authorId": "2480903",
+        "name": "Alexis Conneau"
+      },
+      {
+        "authorId": "8905591",
+        "name": "Ludovic Denoyer"
+      },
+      {
+        "authorId": "1706809",
+        "name": "Marc'Aurelio Ranzato"
+      }
+    ]
+  },
+  {
+    "paperId": "4d08dcd2cc1e9691defe664a10f021424a896a1e",
+    "title": "Neural Machine Translation: A Review",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "48404632",
+        "name": "Felix Stahlberg"
+      }
+    ]
+  },
+  {
+    "paperId": "868207797e69df5055f5c3fd4aa78a33e5a7ca45",
+    "title": "Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2615454",
+        "name": "Nitika Mathur"
+      },
+      {
+        "authorId": "123917295",
+        "name": "Tim Baldwin"
+      },
+      {
+        "authorId": "143620680",
+        "name": "Trevor Cohn"
+      }
+    ]
+  },
+  {
+    "paperId": "e8f297e161f57e461ede2d4e0c26573981cad077",
+    "title": "Findings of the 2020 Conference on Machine Translation (WMT20)",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2934336",
+        "name": "Loïc Barrault"
+      },
+      {
+        "authorId": "1417317763",
+        "name": "Magdalena Biesialska"
+      },
+      {
+        "authorId": "143832874",
+        "name": "Ondrej Bojar"
+      },
+      {
+        "authorId": "1398996347",
+        "name": "M. Costa-jussà"
+      },
+      {
+        "authorId": "3359291",
+        "name": "C. Federmann"
+      },
+      {
+        "authorId": "1562121827",
+        "name": "Yvette Graham"
+      },
+      {
+        "authorId": "3272639",
+        "name": "Roman Grundkiewicz"
+      },
+      {
+        "authorId": "2259100",
+        "name": "B. Haddow"
+      },
+      {
+        "authorId": "1839533",
+        "name": "Matthias Huck"
+      },
+      {
+        "authorId": "3339702",
+        "name": "E. Joanis"
+      },
+      {
+        "authorId": "3452584",
+        "name": "Tom Kocmi"
+      },
+      {
+        "authorId": "1755162",
+        "name": "Philipp Koehn"
+      },
+      {
+        "authorId": "37315056",
+        "name": "Chi-kiu (羅致翹) Lo"
+      },
+      {
+        "authorId": "3358706",
+        "name": "Nikola Ljubesic"
+      },
+      {
+        "authorId": "1696402",
+        "name": "Christof Monz"
+      },
+      {
+        "authorId": "2731589",
+        "name": "Makoto Morishita"
+      },
+      {
+        "authorId": "2364073",
+        "name": "M. Nagata"
+      },
+      {
+        "authorId": "40948140",
+        "name": "Toshiaki Nakazawa"
+      },
+      {
+        "authorId": "145244784",
+        "name": "Santanu Pal"
+      },
+      {
+        "authorId": "38842528",
+        "name": "Matt Post"
+      },
+      {
+        "authorId": "145130358",
+        "name": "Marcos Zampieri"
+      }
+    ]
+  },
+  {
+    "paperId": "7f6231aae6e5eb5b62f85429f3ad8eaa96fee11e",
+    "title": "Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2052140904",
+        "name": "Stephanie Stoll"
+      },
+      {
+        "authorId": "40163061",
+        "name": "N. C. Camgoz"
+      },
+      {
+        "authorId": "2417546",
+        "name": "Simon Hadfield"
+      },
+      {
+        "authorId": "145398628",
+        "name": "R. Bowden"
+      }
+    ]
+  },
+  {
+    "paperId": "302c56e718d449b25cd3d6873f2e58078c584617",
+    "title": "Marian: Fast Neural Machine Translation in C++",
+    "year": 2018,
+    "authors": [
+      {
+        "authorId": "1733933",
+        "name": "Marcin Junczys-Dowmunt"
+      },
+      {
+        "authorId": "3272639",
+        "name": "Roman Grundkiewicz"
+      },
+      {
+        "authorId": "3407177",
+        "name": "Tomasz Dwojak"
+      },
+      {
+        "authorId": "152378023",
+        "name": "Hieu T. Hoang"
+      },
+      {
+        "authorId": "1702066",
+        "name": "Kenneth Heafield"
+      },
+      {
+        "authorId": "1410712818",
+        "name": "Tom Neckermann"
+      },
+      {
+        "authorId": "1745715",
+        "name": "F. Seide"
+      },
+      {
+        "authorId": "50655248",
+        "name": "Ulrich Germann"
+      },
+      {
+        "authorId": "8129718",
+        "name": "Alham Fikri Aji"
+      },
+      {
+        "authorId": "3444222",
+        "name": "Nikolay Bogoychev"
+      },
+      {
+        "authorId": "145644643",
+        "name": "André F. T. Martins"
+      },
+      {
+        "authorId": "2539211",
+        "name": "Alexandra Birch"
+      }
+    ]
+  },
+  {
+    "paperId": "02c8d27b92a7159facb2e9446d26a5356d446ffe",
+    "title": "Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "1659291566",
+        "name": "W. Nekoto"
+      },
+      {
+        "authorId": "1841137457",
+        "name": "V. Marivate"
+      },
+      {
+        "authorId": "1988693685",
+        "name": "T. Matsila"
+      },
+      {
+        "authorId": "1587826888",
+        "name": "Timi E. Fasubaa"
+      },
+      {
+        "authorId": "66255594",
+        "name": "T. Kolawole"
+      },
+      {
+        "authorId": "1885577806",
+        "name": "T. Fagbohungbe"
+      },
+      {
+        "authorId": "91005898",
+        "name": "S. Akinola"
+      },
+      {
+        "authorId": "7744881",
+        "name": "Shamsuddeen Hassan Muhammad"
+      },
+      {
+        "authorId": "1591123106",
+        "name": "Salomon Kabongo KABENAMUALU"
+      },
+      {
+        "authorId": "1486204986",
+        "name": "Salomey Osei"
+      },
+      {
+        "authorId": "1805991055",
+        "name": "Sackey Freshia"
+      },
+      {
+        "authorId": "1988673056",
+        "name": "Andre Niyongabo Rubungo"
+      },
+      {
+        "authorId": "1988655656",
+        "name": "Ricky Macharm"
+      },
+      {
+        "authorId": "1988654955",
+        "name": "Perez Ogayo"
+      },
+      {
+        "authorId": "1452686038",
+        "name": "Orevaoghene Ahia"
+      },
+      {
+        "authorId": "1591229515",
+        "name": "Musie Meressa"
+      },
+      {
+        "authorId": "2056770646",
+        "name": "Mofetoluwa Adeyemi"
+      },
+      {
+        "authorId": "1988652320",
+        "name": "Masabata Mokgesi-Selinga"
+      },
+      {
+        "authorId": "1988656084",
+        "name": "Lawrence Okegbemi"
+      },
+      {
+        "authorId": "26959540",
+        "name": "L. Martinus"
+      },
+      {
+        "authorId": "1988654756",
+        "name": "Kolawole Tajudeen"
+      },
+      {
+        "authorId": "67090637",
+        "name": "Kevin Degila"
+      },
+      {
+        "authorId": "1452683268",
+        "name": "Kelechi Ogueji"
+      },
+      {
+        "authorId": "1591111860",
+        "name": "Kathleen Siminyu"
+      },
+      {
+        "authorId": "3422710",
+        "name": "Julia Kreutzer"
+      },
+      {
+        "authorId": "144664988",
+        "name": "Jason Webster"
+      },
+      {
+        "authorId": "1591191510",
+        "name": "Jamiil Toure Ali"
+      },
+      {
+        "authorId": "145164877",
+        "name": "Jade Z. Abbott"
+      },
+      {
+        "authorId": "2570169",
+        "name": "Iroro Orife"
+      },
+      {
+        "authorId": "3452783",
+        "name": "I. Ezeani"
+      },
+      {
+        "authorId": "1988693684",
+        "name": "Idris Abdulkabir Dangana"
+      },
+      {
+        "authorId": "2308553",
+        "name": "H. Kamper"
+      },
+      {
+        "authorId": "2218938",
+        "name": "Hady ElSahar"
+      },
+      {
+        "authorId": "1988651328",
+        "name": "Goodness Duru"
+      },
+      {
+        "authorId": "1591123571",
+        "name": "Ghollah Kioko"
+      },
+      {
+        "authorId": "1591212429",
+        "name": "Espoir Murhabazi"
+      },
+      {
+        "authorId": "51928219",
+        "name": "Elan Van Biljon"
+      },
+      {
+        "authorId": "51177390",
+        "name": "Daniel Whitenack"
+      },
+      {
+        "authorId": "1988651166",
+        "name": "Christopher Onyefuluchi"
+      },
+      {
+        "authorId": "1591176064",
+        "name": "Chris C. Emezue"
+      },
+      {
+        "authorId": "1591111757",
+        "name": "Bonaventure F. P. Dossou"
+      },
+      {
+        "authorId": "1591123568",
+        "name": "Blessing K. Sibanda"
+      },
+      {
+        "authorId": "89426214",
+        "name": "B. Bassey"
+      },
+      {
+        "authorId": "1988693689",
+        "name": "A. Olabiyi"
+      },
+      {
+        "authorId": "71589171",
+        "name": "A. Ramkilowan"
+      },
+      {
+        "authorId": "1591189507",
+        "name": "A. Oktem"
+      },
+      {
+        "authorId": "146001089",
+        "name": "Adewale Akinfaderin"
+      },
+      {
+        "authorId": "6958277",
+        "name": "Abdallah Bashir"
+      }
+    ]
+  },
+  {
+    "paperId": "7225c2a42990f850f692f8d82e7f3bfaf312145c",
+    "title": "Competence-based Curriculum Learning for Neural Machine Translation",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "144888672",
+        "name": "Emmanouil Antonios Platanios"
+      },
+      {
+        "authorId": "3397269",
+        "name": "Otilia Stretcu"
+      },
+      {
+        "authorId": "1700325",
+        "name": "Graham Neubig"
+      },
+      {
+        "authorId": "1719347",
+        "name": "B. Póczos"
+      },
+      {
+        "authorId": "40975594",
+        "name": "Tom Michael Mitchell"
+      }
+    ]
+  },
+  {
+    "paperId": "f6127bbe33d7e5776d3c313304b35d27e1051459",
+    "title": "Non-Autoregressive Machine Translation with Latent Alignments",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "51497543",
+        "name": "Chitwan Saharia"
+      },
+      {
+        "authorId": "144333684",
+        "name": "William Chan"
+      },
+      {
+        "authorId": "2054003577",
+        "name": "Saurabh Saxena"
+      },
+      {
+        "authorId": "144739074",
+        "name": "Mohammad Norouzi"
+      }
+    ]
+  },
+  {
+    "paperId": "33d05a1ff5f15bdc60fc43fa8523a4888af5f116",
+    "title": "Glancing Transformer for Non-Autoregressive Neural Machine Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2072789464",
+        "name": "Lihua Qian"
+      },
+      {
+        "authorId": "2111824520",
+        "name": "Hao Zhou"
+      },
+      {
+        "authorId": "145854784",
+        "name": "Yu Bao"
+      },
+      {
+        "authorId": "50468534",
+        "name": "Mingxuan Wang"
+      },
+      {
+        "authorId": "2068178455",
+        "name": "Lin Qiu"
+      },
+      {
+        "authorId": "2108309275",
+        "name": "Weinan Zhang"
+      },
+      {
+        "authorId": "1811427",
+        "name": "Yong Yu"
+      },
+      {
+        "authorId": "143900005",
+        "name": "Lei Li"
+      }
+    ]
+  },
+  {
+    "paperId": "64a0c241095faffdba00cbab90ce385b6db41b06",
+    "title": "Multimodal Transformer for Multimodal Machine Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "47188971",
+        "name": "Shaowei Yao"
+      },
+      {
+        "authorId": "145078589",
+        "name": "Xiaojun Wan"
+      }
+    ]
+  },
+  {
+    "paperId": "8b6c9adf85a9d6391e3ccd503c2e5af929a36735",
+    "title": "Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "51150334",
+        "name": "Bryan Eikema"
+      },
+      {
+        "authorId": "2782694",
+        "name": "Wilker Aziz"
+      }
+    ]
+  },
+  {
+    "paperId": "867f8acd70889ac771e10718ea570cf894faa659",
+    "title": "The impact of using machine translation on EFL students’ writing",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "3428747",
+        "name": "Sangmin-Michelle Lee"
+      }
+    ]
+  },
+  {
+    "paperId": "4bfc842cfadc632de84709945c870fb8608162d9",
+    "title": "Sentiment Analysis",
+    "year": 2025,
+    "authors": [
+      {
+        "authorId": "1830414423",
+        "name": "Vinita Silaparasetty"
+      }
+    ]
+  },
+  {
+    "paperId": "297d01ff6731c3bd917ede3d378c94cb84650e8f",
+    "title": "Opinion Mining and Sentiment Analysis",
+    "year": 2018,
+    "authors": [
+      {
+        "authorId": "1682418",
+        "name": "C. Aggarwal"
+      }
+    ]
+  },
+  {
+    "paperId": "bcdc102c04fb0e7d4652e8bcc7edd2983bb9576d",
+    "title": "VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text",
+    "year": 2014,
+    "authors": [
+      {
+        "authorId": "40320059",
+        "name": "C. J. Hutto"
+      },
+      {
+        "authorId": "145280613",
+        "name": "Eric Gilbert"
+      }
+    ]
+  },
+  {
+    "paperId": "33c95f4d13958e65e676a9cd64bd4d8df0fdb44d",
+    "title": "Sentiment Analysis and Opinion Mining",
+    "year": 2012,
+    "authors": [
+      {
+        "authorId": "50081327",
+        "name": "Lei Zhang"
+      },
+      {
+        "authorId": "145321667",
+        "name": "B. Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "1c61f9ef06fe74505775a833ff849185757199e7",
+    "title": "Learning Word Vectors for Sentiment Analysis",
+    "year": 2011,
+    "authors": [
+      {
+        "authorId": "34961461",
+        "name": "Andrew L. Maas"
+      },
+      {
+        "authorId": "119816047",
+        "name": "Raymond E. Daly"
+      },
+      {
+        "authorId": "2061523260",
+        "name": "Peter T. Pham"
+      },
+      {
+        "authorId": "2110408720",
+        "name": "Dan Huang"
+      },
+      {
+        "authorId": "34699434",
+        "name": "A. Ng"
+      },
+      {
+        "authorId": "144922861",
+        "name": "Christopher Potts"
+      }
+    ]
+  },
+  {
+    "paperId": "6fee6e61543a776dbf83ec78320191dcf07ca406",
+    "title": "A survey on sentiment analysis methods, applications, and challenges",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "72841627",
+        "name": "Mayur Wankhade"
+      },
+      {
+        "authorId": "7645805",
+        "name": "A. C. Rao"
+      },
+      {
+        "authorId": "49223785",
+        "name": "Chaitanya Kulkarni"
+      }
+    ]
+  },
+  {
+    "paperId": "8597c0dc4fa5805306d9dd73622b9d27f4e74557",
+    "title": "A multimodal approach to cross-lingual sentiment analysis with ensemble of transformer and LLM",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "35628084",
+        "name": "M. U. Miah"
+      },
+      {
+        "authorId": "66345278",
+        "name": "M. Kabir"
+      },
+      {
+        "authorId": "2007109937",
+        "name": "Talha Bin Sarwar"
+      },
+      {
+        "authorId": "40596592",
+        "name": "Mejdl S. Safran"
+      },
+      {
+        "authorId": "3434768",
+        "name": "Sultan Alfarhood"
+      },
+      {
+        "authorId": "2143453567",
+        "name": "M. F. Mridha"
+      }
+    ]
+  },
+  {
+    "paperId": "c713ade0d479355c8e155ca720fbe36c34e9e2f6",
+    "title": "Sentiment Analysis in the Age of Generative AI",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2289954773",
+        "name": "Jan Ole Krugmann"
+      },
+      {
+        "authorId": "2289984482",
+        "name": "Jochen Hartmann"
+      }
+    ]
+  },
+  {
+    "paperId": "167e1359943b96b9e92ee73db1df69a1f65d731d",
+    "title": "A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts",
+    "year": 2004,
+    "authors": [
+      {
+        "authorId": "144865353",
+        "name": "B. Pang"
+      },
+      {
+        "authorId": "145810617",
+        "name": "Lillian Lee"
+      }
+    ]
+  },
+  {
+    "paperId": "aa67e35d5ae174c990cfdcb200bef185000fd9a9",
+    "title": "A review of sentiment analysis: tasks, applications, and deep learning techniques",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2309476379",
+        "name": "Neeraj A. Sharma"
+      },
+      {
+        "authorId": "2362638249",
+        "name": "A. B. M. S. Ali"
+      },
+      {
+        "authorId": "2309357961",
+        "name": "Muhammad Ashad Kabir"
+      }
+    ]
+  },
+  {
+    "paperId": "c589ddc6c6fb07189af7c1212f6eb15c5ff72cde",
+    "title": "Sentiment Analysis in the Era of Large Language Models: A Reality Check",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "150341144",
+        "name": "Wenxuan Zhang"
+      },
+      {
+        "authorId": "2162024594",
+        "name": "Yue Deng"
+      },
+      {
+        "authorId": "49166962",
+        "name": "Bing-Quan Liu"
+      },
+      {
+        "authorId": "1746914",
+        "name": "Sinno Jialin Pan"
+      },
+      {
+        "authorId": "1996394",
+        "name": "Lidong Bing"
+      }
+    ]
+  },
+  {
+    "paperId": "8e7205580fb510bfea8c1665788679fea87d09f5",
+    "title": "Financial Sentiment Analysis: Techniques and Applications",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2203301853",
+        "name": "Kelvin Du"
+      },
+      {
+        "authorId": "121112586",
+        "name": "Frank Xing"
+      },
+      {
+        "authorId": "2261445911",
+        "name": "Rui Mao"
+      },
+      {
+        "authorId": "2388060125",
+        "name": "Erik Cambria"
+      }
+    ]
+  },
+  {
+    "paperId": "8589c0ff39d35630a2798cf6d3f58f63d37b1c03",
+    "title": "Sentiment analysis algorithms and applications: A survey",
+    "year": 2014,
+    "authors": [
+      {
+        "authorId": "2456013",
+        "name": "Walaa Medhat"
+      },
+      {
+        "authorId": "119699904",
+        "name": "A. Hassan"
+      },
+      {
+        "authorId": "37786377",
+        "name": "H. Korashy"
+      }
+    ]
+  },
+  {
+    "paperId": "58e00cde75cf11589ca53e7d2e62179a80cad19a",
+    "title": "SentiWordNet 3.0: An Enhanced Lexical Resource for Sentiment Analysis and Opinion Mining",
+    "year": 2010,
+    "authors": [
+      {
+        "authorId": "1766896",
+        "name": "Stefano Baccianella"
+      },
+      {
+        "authorId": "1699411",
+        "name": "Andrea Esuli"
+      },
+      {
+        "authorId": "145077269",
+        "name": "F. Sebastiani"
+      }
+    ]
+  },
+  {
+    "paperId": "5a96f2bfa2deae2bc35b250251d5fbe82ef4932b",
+    "title": "Tensor Fusion Network for Multimodal Sentiment Analysis",
+    "year": 2017,
+    "authors": [
+      {
+        "authorId": "144802290",
+        "name": "Amir Zadeh"
+      },
+      {
+        "authorId": "2108827470",
+        "name": "Minghai Chen"
+      },
+      {
+        "authorId": "1746416",
+        "name": "Soujanya Poria"
+      },
+      {
+        "authorId": "49943757",
+        "name": "E. Cambria"
+      },
+      {
+        "authorId": "49933077",
+        "name": "Louis-philippe Morency"
+      }
+    ]
+  },
+  {
+    "paperId": "378ef6735577260016f767bfd17c66c1f3892a9f",
+    "title": "Comprehensive review and comparative analysis of transformer models in sentiment analysis",
+    "year": 2024,
+    "authors": [
+      {
+        "authorId": "2317344306",
+        "name": "Hadis Bashiri"
+      },
+      {
+        "authorId": "2301792872",
+        "name": "Hassan Naderi"
+      }
+    ]
+  },
+  {
+    "paperId": "077d10a856d12855eea13fe0960a2df006bba257",
+    "title": "Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "72549949",
+        "name": "Wei Han"
+      },
+      {
+        "authorId": "2155552055",
+        "name": "Hui Chen"
+      },
+      {
+        "authorId": "1746416",
+        "name": "Soujanya Poria"
+      }
+    ]
+  },
+  {
+    "paperId": "b25663fa149be5286de193c13324098aedd7e2cc",
+    "title": "Opinion Mining and Sentiment Analysis",
+    "year": 2008,
+    "authors": [
+      {
+        "authorId": "144865353",
+        "name": "B. Pang"
+      },
+      {
+        "authorId": "145810617",
+        "name": "Lillian Lee"
+      }
+    ]
+  },
+  {
+    "paperId": "02b1bc3601aafbafc4cf8b27557e599a1690f295",
+    "title": "Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2462591",
+        "name": "Ruifan Li"
+      },
+      {
+        "authorId": "144600412",
+        "name": "Hao Chen"
+      },
+      {
+        "authorId": "39825530",
+        "name": "Fangxiang Feng"
+      },
+      {
+        "authorId": "2118104922",
+        "name": "Zhanyu Ma"
+      },
+      {
+        "authorId": "2115450950",
+        "name": "Xiaojie Wang"
+      },
+      {
+        "authorId": "144547315",
+        "name": "E. Hovy"
+      }
+    ]
+  },
+  {
+    "paperId": "968820dfae97f80b63674fd76cd7d82332498708",
+    "title": "A Unified Generative Framework for Aspect-based Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "146948229",
+        "name": "Hang Yan"
+      },
+      {
+        "authorId": "2087363104",
+        "name": "Junqi Dai"
+      },
+      {
+        "authorId": "2107628063",
+        "name": "Tuo Ji"
+      },
+      {
+        "authorId": "1767521",
+        "name": "Xipeng Qiu"
+      },
+      {
+        "authorId": "2148904903",
+        "name": "Zheng Zhang"
+      }
+    ]
+  },
+  {
+    "paperId": "cccb79b8ea9d19d963eaba2042963be8a3e7d196",
+    "title": "A review on sentiment analysis from social media platforms",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1417311522",
+        "name": "Margarita Rodríguez-Ibáñez"
+      },
+      {
+        "authorId": "1409051584",
+        "name": "Antonio Casañez-Ventura"
+      },
+      {
+        "authorId": "2211661230",
+        "name": "Félix Castejón-Mateos"
+      },
+      {
+        "authorId": "1416701557",
+        "name": "P. Cuenca-Jiménez"
+      }
+    ]
+  },
+  {
+    "paperId": "fee0d9aaa31cb7e099b397f0d8f4a92667be2a0b",
+    "title": "Multimodal Sentiment Analysis: A Survey of Methods, Trends, and Challenges",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1828752488",
+        "name": "Ringki Das"
+      },
+      {
+        "authorId": "2305086",
+        "name": "Thoudam Doren Singh"
+      }
+    ]
+  },
+  {
+    "paperId": "9076b287843441fb749d37b69317162c1fa272e3",
+    "title": "XLM-T: Multilingual Language Models in Twitter for Sentiment Analysis and Beyond",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1499242010",
+        "name": "Francesco Barbieri"
+      },
+      {
+        "authorId": "2254466",
+        "name": "Luis Espinosa Anke"
+      },
+      {
+        "authorId": "1387447871",
+        "name": "José Camacho-Collados"
+      }
+    ]
+  },
+  {
+    "paperId": "8eb9a8d756e93530eb35e9f0e26a2a0190c1dd7c",
+    "title": "The Biases of Pre-Trained Language Models: An Empirical Study on Prompt-Based Sentiment Analysis and Emotion Detection",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2106694812",
+        "name": "Rui Mao"
+      },
+      {
+        "authorId": "50384137",
+        "name": "Qian Liu"
+      },
+      {
+        "authorId": "2058348503",
+        "name": "Kai He"
+      },
+      {
+        "authorId": "40400230",
+        "name": "Wei Li"
+      },
+      {
+        "authorId": "49943757",
+        "name": "E. Cambria"
+      }
+    ]
+  },
+  {
+    "paperId": "9760874f2898842509650e0a88c0123fe6b00578",
+    "title": "A Survey of Sentiment Analysis: Approaches, Datasets, and Future Research",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2153345991",
+        "name": "Kian Long Tan"
+      },
+      {
+        "authorId": "84161127",
+        "name": "C. Lee"
+      },
+      {
+        "authorId": "30039300",
+        "name": "K. Lim"
+      }
+    ]
+  },
+  {
+    "paperId": "6f34ad869da01abdf8d183a1786b54ff4217aefd",
+    "title": "A Study on Sentiment Analysis Techniques of Twitter Data",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2290646641",
+        "name": "Abdullah Alsaeedi"
+      },
+      {
+        "authorId": "145229461",
+        "name": "M. Zubair"
+      }
+    ]
+  },
+  {
+    "paperId": "826ee01787498026fa743669f6ee9c92f1d9891c",
+    "title": "A BERT Framework to Sentiment Analysis of Tweets",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "117768368",
+        "name": "Abayomi Bello"
+      },
+      {
+        "authorId": "122661105",
+        "name": "Sin-Chun Ng"
+      },
+      {
+        "authorId": "2337982",
+        "name": "Man-Fai Leung"
+      }
+    ]
+  },
+  {
+    "paperId": "f781fbb5d52ad87be5f6b263f154c1f299f4e884",
+    "title": "Sentiment analysis classification system using hybrid BERT models",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2569519",
+        "name": "Amira Samy Talaat"
+      }
+    ]
+  },
+  {
+    "paperId": "5a88b8f1ffd87fd900de225f3d7e87c9f53af7df",
+    "title": "ABCDM: An Attention-based Bidirectional CNN-RNN Deep Model for sentiment analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2774687",
+        "name": "Mohammad Ehsan Basiri"
+      },
+      {
+        "authorId": "144239231",
+        "name": "Shahla Nemati"
+      },
+      {
+        "authorId": "7412048",
+        "name": "M. Abdar"
+      },
+      {
+        "authorId": "49943757",
+        "name": "E. Cambria"
+      },
+      {
+        "authorId": "2003254333",
+        "name": "U. R. Acharrya"
+      }
+    ]
+  },
+  {
+    "paperId": "9b4876f7313b111074e79a01f570e6e9e02c0dce",
+    "title": "Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis",
+    "year": 2005,
+    "authors": [
+      {
+        "authorId": "2340621191",
+        "name": "Theresa Wilson"
+      },
+      {
+        "authorId": "144120827",
+        "name": "Janyce Wiebe"
+      },
+      {
+        "authorId": "2053837053",
+        "name": "Paul Hoffmann"
+      }
+    ]
+  },
+  {
+    "paperId": "ccbc0b08858c1874e1500111774cf268a5f6d7a2",
+    "title": "A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "150341144",
+        "name": "Wenxuan Zhang"
+      },
+      {
+        "authorId": "40613621",
+        "name": "Xin Li"
+      },
+      {
+        "authorId": "145843537",
+        "name": "Yang Deng"
+      },
+      {
+        "authorId": "1996394",
+        "name": "Lidong Bing"
+      },
+      {
+        "authorId": "1380007189",
+        "name": "W. Lam"
+      }
+    ]
+  },
+  {
+    "paperId": "34a2c02d63a566c36636328e3bac9cbd40daca95",
+    "title": "A review on sentiment analysis and emotion detection from text",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2099885724",
+        "name": "Pansy Nandwani"
+      },
+      {
+        "authorId": "2000351044",
+        "name": "Rupali Verma"
+      }
+    ]
+  },
+  {
+    "paperId": "90a544308c4cf6ab1898bcb8e5a3852cc6172774",
+    "title": "Multimodal sentiment analysis based on fusion methods: A survey",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "48324081",
+        "name": "Linan Zhu"
+      },
+      {
+        "authorId": "2198624348",
+        "name": "Zhechao Zhu"
+      },
+      {
+        "authorId": "2316524639",
+        "name": "Chenwei Zhang"
+      },
+      {
+        "authorId": "2198659534",
+        "name": "Yifei Xu"
+      },
+      {
+        "authorId": "2069030688",
+        "name": "Xiangjie Kong"
+      }
+    ]
+  },
+  {
+    "paperId": "10e40ecbfeead7643742af677fd52df96239a584",
+    "title": "Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "3284326",
+        "name": "Ankita Gandhi"
+      },
+      {
+        "authorId": "32709882",
+        "name": "K. Adhvaryu"
+      },
+      {
+        "authorId": "1746416",
+        "name": "Soujanya Poria"
+      },
+      {
+        "authorId": "49943757",
+        "name": "E. Cambria"
+      },
+      {
+        "authorId": "2082388090",
+        "name": "A. Hussain"
+      }
+    ]
+  },
+  {
+    "paperId": "2b91a2cbcd9cce902cbc8da78fec5f18f4bffc98",
+    "title": "Deep learning for sentiment analysis: A survey",
+    "year": 2018,
+    "authors": [
+      {
+        "authorId": "50081327",
+        "name": "Lei Zhang"
+      },
+      {
+        "authorId": "1717480",
+        "name": "Shuai Wang"
+      },
+      {
+        "authorId": "145321667",
+        "name": "B. Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "dde6151c4e82cbfd573e3ec1d1a36af4a1121220",
+    "title": "MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "8223433",
+        "name": "Devamanyu Hazarika"
+      },
+      {
+        "authorId": "153015119",
+        "name": "Roger Zimmermann"
+      },
+      {
+        "authorId": "1746416",
+        "name": "Soujanya Poria"
+      }
+    ]
+  },
+  {
+    "paperId": "76bdf3df25274660fdcb4eed4e0aafcdbf56354f",
+    "title": "Lexicon-Based Methods for Sentiment Analysis",
+    "year": 2011,
+    "authors": [
+      {
+        "authorId": "145522054",
+        "name": "Maite Taboada"
+      },
+      {
+        "authorId": "145239430",
+        "name": "Julian Brooke"
+      },
+      {
+        "authorId": "2580199",
+        "name": "Milan Tofiloski"
+      },
+      {
+        "authorId": "1678612",
+        "name": "Kimberly D. Voll"
+      },
+      {
+        "authorId": "2574304",
+        "name": "Manfred Stede"
+      }
+    ]
+  },
+  {
+    "paperId": "05405f589e6751bf2dd6678ba077738ee9555fbf",
+    "title": "RoBERTa-LSTM: A Hybrid Model for Sentiment Analysis With Transformer and Recurrent Neural Network",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2153345991",
+        "name": "Kian Long Tan"
+      },
+      {
+        "authorId": "84161127",
+        "name": "C. Lee"
+      },
+      {
+        "authorId": "2446021",
+        "name": "K. Anbananthen"
+      },
+      {
+        "authorId": "30039300",
+        "name": "K. Lim"
+      }
+    ]
+  },
+  {
+    "paperId": "1b860394dfec26d9c350889006e37fe56731f77e",
+    "title": "Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2257373042",
+        "name": "Boyu Zhang"
+      },
+      {
+        "authorId": "1504453822",
+        "name": "Hongyang Yang"
+      },
+      {
+        "authorId": "2257136345",
+        "name": "Tianyu Zhou"
+      },
+      {
+        "authorId": "2268775254",
+        "name": "Muhammad Ali Babar"
+      },
+      {
+        "authorId": "2111039012",
+        "name": "Xiao-Yang Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "768ff532981f47a954d8bc6563a5b3e909cfbcad",
+    "title": "Towards Generative Aspect-Based Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "150341144",
+        "name": "Wenxuan Zhang"
+      },
+      {
+        "authorId": "40613621",
+        "name": "Xin Li"
+      },
+      {
+        "authorId": "145843537",
+        "name": "Yang Deng"
+      },
+      {
+        "authorId": "1996394",
+        "name": "Lidong Bing"
+      },
+      {
+        "authorId": "144594306",
+        "name": "Wai Lam"
+      }
+    ]
+  },
+  {
+    "paperId": "498a516d6cf045163ce78485391a74f58de00a14",
+    "title": "Multimodal Sentiment Analysis With Image-Text Interaction Network",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2072835261",
+        "name": "Tong Zhu"
+      },
+      {
+        "authorId": "2151529209",
+        "name": "Leida Li"
+      },
+      {
+        "authorId": "1755872",
+        "name": "Jufeng Yang"
+      },
+      {
+        "authorId": "1755487",
+        "name": "Sicheng Zhao"
+      },
+      {
+        "authorId": "2118959398",
+        "name": "Hantao Liu"
+      },
+      {
+        "authorId": "2447576",
+        "name": "Jiansheng Qian"
+      }
+    ]
+  },
+  {
+    "paperId": "14861349b075f28cba3a78539a16b18f83e5bbed",
+    "title": "Sentiment analysis using Twitter data: a comparative application of lexicon- and machine-learning-based approach",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "4797818",
+        "name": "Yuxing Qi"
+      },
+      {
+        "authorId": "88740859",
+        "name": "Zahratu Shabrina"
+      }
+    ]
+  },
+  {
+    "paperId": "28372b9197b55d9ce9febb06852f187a4cd92dc0",
+    "title": "ConFEDE: Contrastive Feature Decomposition for Multimodal Sentiment Analysis",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2132071865",
+        "name": "Jiuding Yang"
+      },
+      {
+        "authorId": "29983323",
+        "name": "Yu"
+      },
+      {
+        "authorId": "2106506796",
+        "name": "Di Niu"
+      },
+      {
+        "authorId": "2153297754",
+        "name": "Weidong Guo"
+      },
+      {
+        "authorId": "2110164912",
+        "name": "Yu Xu"
+      }
+    ]
+  },
+  {
+    "paperId": "3c4f1244301577cffff9affc73690669725e7e08",
+    "title": "Transforming Sentiment Analysis in the Financial Domain with ChatGPT",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "90773902",
+        "name": "G. Fatouros"
+      },
+      {
+        "authorId": "2060010",
+        "name": "J. Soldatos"
+      },
+      {
+        "authorId": "2231659221",
+        "name": "Kalliopi Kouroumali"
+      },
+      {
+        "authorId": "2042705161",
+        "name": "Georgios Makridis"
+      },
+      {
+        "authorId": "1681006",
+        "name": "D. Kyriazis"
+      }
+    ]
+  },
+  {
+    "paperId": "52bd9d6389ee9e04adff1d9f006bf6e2f9ad1867",
+    "title": "Survey on sentiment analysis: evolution of research methods and topics",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2114354433",
+        "name": "Jing Cui"
+      },
+      {
+        "authorId": "50219296",
+        "name": "Zhaoxia Wang"
+      },
+      {
+        "authorId": "2111992235",
+        "name": "Seng-Beng Ho"
+      },
+      {
+        "authorId": "49943757",
+        "name": "E. Cambria"
+      }
+    ]
+  },
+  {
+    "paperId": "9d1dedbae6ea794907127b12eacc9e0cfabac098",
+    "title": "Aspect-based sentiment analysis via affective knowledge enhanced graph convolutional networks",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "144691693",
+        "name": "Bin Liang"
+      },
+      {
+        "authorId": "2113292716",
+        "name": "Hang Su"
+      },
+      {
+        "authorId": "145096580",
+        "name": "Lin Gui"
+      },
+      {
+        "authorId": "49943757",
+        "name": "E. Cambria"
+      },
+      {
+        "authorId": "2124010919",
+        "name": "Ruifeng Xua"
+      }
+    ]
+  },
+  {
+    "paperId": "edde5b39a22d6771de0cfc0a3bfb16c83f6605ec",
+    "title": "Sentiment analysis: A survey on design framework, applications and future scopes",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "3426487",
+        "name": "Monali Bordoloi"
+      },
+      {
+        "authorId": "2151694337",
+        "name": "S. Biswas"
+      }
+    ]
+  },
+  {
+    "paperId": "087a2f4cfea227be944f576f1f049e329316acac",
+    "title": "Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1390499062",
+        "name": "Boyu Zhang"
+      },
+      {
+        "authorId": "1504453822",
+        "name": "Hongyang Yang"
+      },
+      {
+        "authorId": "4029028",
+        "name": "Xiao-Yang Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "d61365b11d27bdead90946a6687ca19e313a0819",
+    "title": "Artificial Intelligence and Sentiment Analysis: A Review in Competitive Research",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2636344",
+        "name": "Hamed Taherdoost"
+      },
+      {
+        "authorId": "97831285",
+        "name": "Mitra Madanchian"
+      }
+    ]
+  },
+  {
+    "paperId": "9405ab142c289500caca33473f3e5ace2e292aa2",
+    "title": "Hyperparameter Tuning for Machine Learning Algorithms Used for Arabic Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "118275048",
+        "name": "Enas Elgeldawi"
+      },
+      {
+        "authorId": "47309069",
+        "name": "Awny Sayed"
+      },
+      {
+        "authorId": "1596771121",
+        "name": "Ahmed R. Galal"
+      },
+      {
+        "authorId": "51227795",
+        "name": "A. Zaki"
+      }
+    ]
+  },
+  {
+    "paperId": "549b7766432202b8721283cb6cd4ac0503ba718a",
+    "title": "The Validity of Sentiment Analysis: Comparing Manual Annotation, Crowd-Coding, Dictionary Approaches, and Machine Learning Algorithms",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1656681148",
+        "name": "Wouter van Atteveldt"
+      },
+      {
+        "authorId": "1752616381",
+        "name": "M. A. van der Velden"
+      },
+      {
+        "authorId": "3182049",
+        "name": "M. Boukes"
+      }
+    ]
+  },
+  {
+    "paperId": "52f41475f957bc5380b2a4d7aabc9b75e52d7777",
+    "title": "Sentiment Analysis of Text Reviews Using Lexicon-Enhanced Bert Embedding (LeBERT) Model with Convolutional Neural Network",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "77432119",
+        "name": "J. Mutinda"
+      },
+      {
+        "authorId": "145180839",
+        "name": "W. Mwangi"
+      },
+      {
+        "authorId": "143666963",
+        "name": "G. Okeyo"
+      }
+    ]
+  },
+  {
+    "paperId": "7102bb3fe73bd057ff161d9db5214a267c1ef312",
+    "title": "FinBERT: Financial Sentiment Analysis with Pre-trained Language Models",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "1388055949",
+        "name": "Dogu Araci"
+      }
+    ]
+  },
+  {
+    "paperId": "8fa0b978ce681be9db609822b1fce27bf269b398",
+    "title": "RoBERTa-GRU: A Hybrid Deep Learning Model for Enhanced Sentiment Analysis",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2153345991",
+        "name": "Kian Long Tan"
+      },
+      {
+        "authorId": "84161127",
+        "name": "C. Lee"
+      },
+      {
+        "authorId": "30039300",
+        "name": "K. Lim"
+      }
+    ]
+  },
+  {
+    "paperId": "01d8761603c1859079f699f89da654d290e3d99d",
+    "title": "Multimodal Sentiment Analysis: A Survey",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2185295161",
+        "name": "Songning Lai"
+      },
+      {
+        "authorId": "2108834360",
+        "name": "Hao Xu"
+      },
+      {
+        "authorId": "152246547",
+        "name": "Xifeng Hu"
+      },
+      {
+        "authorId": "2217969793",
+        "name": "Zhaoxia Ren"
+      },
+      {
+        "authorId": "2217108861",
+        "name": "Zhi Liu"
+      }
+    ]
+  },
+  {
+    "paperId": "b7ede1a356fafd7dd0eccaf005f2453c22b4ba93",
+    "title": "Sentiment Analysis and Sarcasm Detection using Deep Multi-Task Learning",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2210774762",
+        "name": "Yik Yang Tan"
+      },
+      {
+        "authorId": "2055833284",
+        "name": "C. Chow"
+      },
+      {
+        "authorId": "2826624",
+        "name": "J. Kanesan"
+      },
+      {
+        "authorId": "38900275",
+        "name": "Joon Huang Chuah"
+      },
+      {
+        "authorId": "2210745113",
+        "name": "YongLiang Lim"
+      }
+    ]
+  },
+  {
+    "paperId": "8e85df955707cb7959299d83b6b8c8a28b2b53dd",
+    "title": "Relational Graph Attention Network for Aspect-based Sentiment Analysis",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "37833805",
+        "name": "Kai Wang"
+      },
+      {
+        "authorId": "74132442",
+        "name": "Weizhou Shen"
+      },
+      {
+        "authorId": "49307508",
+        "name": "Yunyi Yang"
+      },
+      {
+        "authorId": "38472218",
+        "name": "Xiaojun Quan"
+      },
+      {
+        "authorId": "145258523",
+        "name": "Rui Wang"
+      }
+    ]
+  },
+  {
+    "paperId": "a4031c8bd79a75c82d3d3e5853f55ae47ae90eac",
+    "title": "Sentiment analysis of clinical narratives: A scoping review",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2251210",
+        "name": "K. Denecke"
+      },
+      {
+        "authorId": "1754345513",
+        "name": "Daniel Reichenpfader"
+      }
+    ]
+  },
+  {
+    "paperId": "52fd344a921ee010f14259655330f712c3957b8d",
+    "title": "More than a Feeling: Accuracy and Application of Sentiment Analysis",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "39697129",
+        "name": "Jochen Hartmann"
+      },
+      {
+        "authorId": "40424103",
+        "name": "Mark Heitmann"
+      },
+      {
+        "authorId": "7146997",
+        "name": "C. Siebert"
+      },
+      {
+        "authorId": "14814784",
+        "name": "Christina Schamp"
+      }
+    ]
+  },
+  {
+    "paperId": "4682ac14a105eec06e3e1c600986b8b929ad02fa",
+    "title": "An enhanced approach for sentiment analysis based on meta-ensemble deep learning",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "1396728373",
+        "name": "Rania Kora"
+      },
+      {
+        "authorId": "2109078658",
+        "name": "Ammar Mohammed"
+      }
+    ]
+  },
+  {
+    "paperId": "bd982b3628977709ec0fc9ae5756417209ed803c",
+    "title": "UniMSE: Towards Unified Multimodal Sentiment Analysis and Emotion Recognition",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "1992682487",
+        "name": "Guimin Hu"
+      },
+      {
+        "authorId": "31255666",
+        "name": "Ting-En Lin"
+      },
+      {
+        "authorId": "2109918029",
+        "name": "Yi Zhao"
+      },
+      {
+        "authorId": "2114182496",
+        "name": "Guangming Lu"
+      },
+      {
+        "authorId": "2142637404",
+        "name": "Yuchuan Wu"
+      },
+      {
+        "authorId": "2237932828",
+        "name": "Yongbin Li"
+      }
+    ]
+  },
+  {
+    "paperId": "212ad044aec57eec03984ef70bc6eb628825f599",
+    "title": "Transfer Learning for Sentiment Analysis Using BERT Based Supervised Fine-Tuning",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "1585247906",
+        "name": "Nusrat Jahan Prottasha"
+      },
+      {
+        "authorId": "2167365639",
+        "name": "Abdullah As Sami"
+      },
+      {
+        "authorId": "2106259718",
+        "name": "Md. Kowsher"
+      },
+      {
+        "authorId": "1909294097",
+        "name": "Saydul Akbar Murad"
+      },
+      {
+        "authorId": "3390642",
+        "name": "A. K. Bairagi"
+      },
+      {
+        "authorId": "144314447",
+        "name": "Mehedi Masud"
+      },
+      {
+        "authorId": "3275747",
+        "name": "Mohammed Baz"
+      }
+    ]
+  },
+  {
+    "paperId": "1c5a74805504c8a6afbcc582d94fb921f4e07069",
+    "title": "A Comprehensive Survey on Sentiment Analysis Techniques",
+    "year": 2023,
+    "authors": [
+      {
+        "authorId": "2264823496",
+        "name": "Farhan Aftab"
+      },
+      {
+        "authorId": "18180731",
+        "name": "S. Bazai"
+      },
+      {
+        "authorId": "119900315",
+        "name": "Shahabzade Marjan"
+      },
+      {
+        "authorId": "2264816500",
+        "name": "Laila Baloch"
+      },
+      {
+        "authorId": "2242503016",
+        "name": "Saad Aslam"
+      },
+      {
+        "authorId": "2242730661",
+        "name": "Angela Amphawan"
+      },
+      {
+        "authorId": "145155136",
+        "name": "T. Neo"
+      }
+    ]
+  },
+  {
+    "paperId": "7456651ab7e81dc3073a0917418e2e85ec4f9085",
+    "title": "Sentiment analysis and opinion mining on educational data: A survey",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2047535647",
+        "name": "T. Shaik"
+      },
+      {
+        "authorId": "2036466708",
+        "name": "Xiaohui Tao"
+      },
+      {
+        "authorId": "2166354329",
+        "name": "Christopher Dann"
+      },
+      {
+        "authorId": "2117713837",
+        "name": "Haoran Xie"
+      },
+      {
+        "authorId": "89843190",
+        "name": "Y. Li"
+      },
+      {
+        "authorId": "52117165",
+        "name": "Linda Galligan"
+      }
+    ]
+  },
+  {
+    "paperId": "fc85469f9ff785f24212a50c58b497de563ae3da",
+    "title": "CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "1754430080",
+        "name": "Wenmeng Yu"
+      },
+      {
+        "authorId": "2124947706",
+        "name": "Hua Xu"
+      },
+      {
+        "authorId": "1774797",
+        "name": "Fanyang Meng"
+      },
+      {
+        "authorId": "2345697279",
+        "name": "Yilin Zhu"
+      },
+      {
+        "authorId": "95952564",
+        "name": "Yixiao Ma"
+      },
+      {
+        "authorId": "1754148511",
+        "name": "Jiele Wu"
+      },
+      {
+        "authorId": "1657286768",
+        "name": "Jiyun Zou"
+      },
+      {
+        "authorId": "2118047966",
+        "name": "Kaicheng Yang"
+      }
+    ]
+  },
+  {
+    "paperId": "dd7bfb6632612e680cc11b4f8570c96ead12942d",
+    "title": "SemEval-2016 Task 5: Aspect Based Sentiment Analysis",
+    "year": 2016,
+    "authors": [
+      {
+        "authorId": "3467179",
+        "name": "Maria Pontiki"
+      },
+      {
+        "authorId": "50143153",
+        "name": "D. Galanis"
+      },
+      {
+        "authorId": "36050276",
+        "name": "Haris Papageorgiou"
+      },
+      {
+        "authorId": "1756438",
+        "name": "S. Manandhar"
+      },
+      {
+        "authorId": "1752430",
+        "name": "Ion Androutsopoulos"
+      },
+      {
+        "authorId": "1742458",
+        "name": "Núria Bel"
+      },
+      {
+        "authorId": "3348151",
+        "name": "Gülşen Eryiğit"
+      }
+    ]
+  },
+  {
+    "paperId": "b52958224f11c5a3940ef44228f0008ed3df66b0",
+    "title": "Deep Sentiment Analysis Using CNN-LSTM Architecture of English and Roman Urdu Text Shared in Social Media",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2120208574",
+        "name": "Lal Khan"
+      },
+      {
+        "authorId": "1569693605",
+        "name": "Ammar Amjad"
+      },
+      {
+        "authorId": "2158082312",
+        "name": "Kanwar Muhammad Afaq"
+      },
+      {
+        "authorId": "2149128036",
+        "name": "Hsien-Tsung Chang"
+      }
+    ]
+  },
+  {
+    "paperId": "670aebb676de8c23e42589c5414e37aefb6e4a6b",
+    "title": "State of the art: a review of sentiment analysis based on sequential transfer learning",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "67278300",
+        "name": "Jireh Yi-Le Chan"
+      },
+      {
+        "authorId": "2161995304",
+        "name": "Khean Thye Bea"
+      },
+      {
+        "authorId": "2161994676",
+        "name": "Steven Mun Hong Leow"
+      },
+      {
+        "authorId": "3462800",
+        "name": "S. Phoong"
+      },
+      {
+        "authorId": "2116796920",
+        "name": "Wai-Khuen Cheng"
+      }
+    ]
+  },
+  {
+    "paperId": "ecd9168526d1a82ac2348c8de52bff6323322da9",
+    "title": "NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "7744881",
+        "name": "Shamsuddeen Hassan Muhammad"
+      },
+      {
+        "authorId": "2518906",
+        "name": "David Ifeoluwa Adelani"
+      },
+      {
+        "authorId": "153795444",
+        "name": "I. Ahmad"
+      },
+      {
+        "authorId": "1429833598",
+        "name": "Idris Abdulmumin"
+      },
+      {
+        "authorId": "52143529",
+        "name": "Bello Shehu Bello"
+      },
+      {
+        "authorId": "143990839",
+        "name": "M. Choudhury"
+      },
+      {
+        "authorId": "1591176064",
+        "name": "Chris C. Emezue"
+      },
+      {
+        "authorId": "2056773747",
+        "name": "Anuoluwapo Aremu"
+      },
+      {
+        "authorId": "2150572873",
+        "name": "Saheed Abdul"
+      },
+      {
+        "authorId": "1712908",
+        "name": "P. Brazdil"
+      }
+    ]
+  },
+  {
+    "paperId": "6c39a08e95ddefd4039866bc22528f1bd936cd14",
+    "title": "Systematic reviews in sentiment analysis: a tertiary study",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2051810627",
+        "name": "Alexander Ligthart"
+      },
+      {
+        "authorId": "3213443",
+        "name": "C. Catal"
+      },
+      {
+        "authorId": "1686685",
+        "name": "B. Tekinerdogan"
+      }
+    ]
+  },
+  {
+    "paperId": "a4e58681400b4f95fe3269e30b8442f2d3a834d2",
+    "title": "Multi-class sentiment analysis of urdu text using multilingual BERT",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2120208574",
+        "name": "Lal Khan"
+      },
+      {
+        "authorId": "1569693605",
+        "name": "Ammar Amjad"
+      },
+      {
+        "authorId": "84078562",
+        "name": "Noman Ashraf"
+      },
+      {
+        "authorId": "2149128036",
+        "name": "Hsien-Tsung Chang"
+      }
+    ]
+  },
+  {
+    "paperId": "a2a6e1e18d1939622380ae2a2adac0dfdc9799d7",
+    "title": "Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "10761233",
+        "name": "Haiyun Peng"
+      },
+      {
+        "authorId": "153152460",
+        "name": "Lu Xu"
+      },
+      {
+        "authorId": "1996394",
+        "name": "Lidong Bing"
+      },
+      {
+        "authorId": "2087380523",
+        "name": "Fei Huang"
+      },
+      {
+        "authorId": "143844110",
+        "name": "Wei Lu"
+      },
+      {
+        "authorId": "2059080424",
+        "name": "Luo Si"
+      }
+    ]
+  },
+  {
+    "paperId": "a3c7ee84cf29f3e72fd680a0a36b85d28f9a5c1b",
+    "title": "Bi-Bimodal Modality Fusion for Correlation-Controlled Multimodal Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2114925665",
+        "name": "Wei Han"
+      },
+      {
+        "authorId": "2155552055",
+        "name": "Hui Chen"
+      },
+      {
+        "authorId": "1381961498",
+        "name": "A. Gelbukh"
+      },
+      {
+        "authorId": "144802290",
+        "name": "Amir Zadeh"
+      },
+      {
+        "authorId": "49933077",
+        "name": "Louis-philippe Morency"
+      },
+      {
+        "authorId": "1746416",
+        "name": "Soujanya Poria"
+      }
+    ]
+  },
+  {
+    "paperId": "ae5aad6cb0d73e2745a90798e77cd1879fda57e6",
+    "title": "A comprehensive survey on sentiment analysis: Approaches, challenges and trends",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "7442900",
+        "name": "Marouane Birjali"
+      },
+      {
+        "authorId": "4521991",
+        "name": "Mohammed Kasri"
+      },
+      {
+        "authorId": "1935321",
+        "name": "A. B. Hssane"
+      }
+    ]
+  },
+  {
+    "paperId": "47fd4c82dab370cd6cbc18bf55f0daf9756faa3c",
+    "title": "Sentiment analysis on the impact of coronavirus in social life using the BERT model",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2110412997",
+        "name": "Mrityunjay Singh"
+      },
+      {
+        "authorId": "66692153",
+        "name": "Amit Kumar Jakhar"
+      },
+      {
+        "authorId": "51029216",
+        "name": "S. Pandey"
+      }
+    ]
+  },
+  {
+    "paperId": "f4cd6e606ad27eb91e3758d769029cb97c2285db",
+    "title": "A performance comparison of supervised machine learning models for Covid-19 tweets sentiment analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1430656665",
+        "name": "F. Rustam"
+      },
+      {
+        "authorId": "47554565",
+        "name": "Madiha Khalid"
+      },
+      {
+        "authorId": "48001308",
+        "name": "W. Aslam"
+      },
+      {
+        "authorId": null,
+        "name": "Vaibhav Rupapara"
+      },
+      {
+        "authorId": "1403306506",
+        "name": "A. Mehmood"
+      },
+      {
+        "authorId": "32016133",
+        "name": "G. Choi"
+      }
+    ]
+  },
+  {
+    "paperId": "0e021f936adf979f86812d67f32b090acb07d706",
+    "title": "A Joint Training Dual-MRC Framework for Aspect Based Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2035547139",
+        "name": "Yue Mao"
+      },
+      {
+        "authorId": "2115382769",
+        "name": "Yi Shen"
+      },
+      {
+        "authorId": "2110964870",
+        "name": "Chao Yu"
+      },
+      {
+        "authorId": "2651246",
+        "name": "Longjun Cai"
+      }
+    ]
+  },
+  {
+    "paperId": "0b7b605a2d6e0cb1e53d1fa03311278e95f99260",
+    "title": "Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2087363104",
+        "name": "Junqi Dai"
+      },
+      {
+        "authorId": "146948229",
+        "name": "Hang Yan"
+      },
+      {
+        "authorId": "153345698",
+        "name": "Tianxiang Sun"
+      },
+      {
+        "authorId": "144118452",
+        "name": "Pengfei Liu"
+      },
+      {
+        "authorId": "1767521",
+        "name": "Xipeng Qiu"
+      }
+    ]
+  },
+  {
+    "paperId": "25761ba4bdc054bfe902fe7c5d6338be6d00d491",
+    "title": "Sentiment Analysis of Students’ Feedback with NLP and Deep Learning: A Systematic Mapping Study",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2429723",
+        "name": "Zenun Kastrati"
+      },
+      {
+        "authorId": "2035596",
+        "name": "Fisnik Dalipi"
+      },
+      {
+        "authorId": null,
+        "name": "Ali Shariq Imran"
+      },
+      {
+        "authorId": "89182458",
+        "name": "Krenare Pireva Nuçi"
+      },
+      {
+        "authorId": "15971377",
+        "name": "M. A. Wani"
+      }
+    ]
+  },
+  {
+    "paperId": "a4bc4b98a917174ac2ab14bd5e66d64306079ab5",
+    "title": "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "33464127",
+        "name": "Hu Xu"
+      },
+      {
+        "authorId": "47655430",
+        "name": "Bing Liu"
+      },
+      {
+        "authorId": "145142456",
+        "name": "Lei Shu"
+      },
+      {
+        "authorId": "144019071",
+        "name": "Philip S. Yu"
+      }
+    ]
+  },
+  {
+    "paperId": "a983c5422f8dc8c04befea0a11c8a29660b3f25c",
+    "title": "Cinematica Sentiment Analysis",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2276176569",
+        "name": "M. Nagane"
+      },
+      {
+        "authorId": "2288375050",
+        "name": "Miss.Sushama Pawar"
+      },
+      {
+        "authorId": "2276163843",
+        "name": "Prof. V. V. Godase"
+      }
+    ]
+  },
+  {
+    "paperId": "d86c90698bef82f7a80ef2163f89a5b2a525b3d5",
+    "title": "Sentiment Analysis Based on Deep Learning: A Comparative Study",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2062798800",
+        "name": "N. C. Dang"
+      },
+      {
+        "authorId": "32387398",
+        "name": "M. García"
+      },
+      {
+        "authorId": "2438150",
+        "name": "Fernando De la Prieta Pintado"
+      }
+    ]
+  },
+  {
+    "paperId": "3bf4c8361af6174d1916224f7c4b5f5598026455",
+    "title": "Sentiment Analysis in Social Media Data for Depression Detection Using Artificial Intelligence: A Review",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2090403966",
+        "name": "N. V. Babu"
+      },
+      {
+        "authorId": "2286473772",
+        "name": "·. E. Grace"
+      },
+      {
+        "authorId": "2232012302",
+        "name": "Mary Kanaga"
+      },
+      {
+        "authorId": "2257190425",
+        "name": "Thomas Mandl"
+      },
+      {
+        "authorId": "33682998",
+        "name": "Sandip J Modha"
+      },
+      {
+        "authorId": "121481018",
+        "name": "E. Grace"
+      }
+    ]
+  },
+  {
+    "paperId": "e74ec4c27a2c684e14a1eecaef762a03eb127b71",
+    "title": "A novel LSTM–CNN–grid search-based deep neural network for sentiment analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "47979571",
+        "name": "Ishaani Priyadarshini"
+      },
+      {
+        "authorId": "2549481",
+        "name": "Chase Cotton"
+      }
+    ]
+  },
+  {
+    "paperId": "cfccc2db3371f32026aba89544d653092f23d781",
+    "title": "Co-LSTM: Convolutional LSTM model for sentiment analysis in social big data",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1827519",
+        "name": "R. Behera"
+      },
+      {
+        "authorId": "7404549",
+        "name": "M. Jena"
+      },
+      {
+        "authorId": "7790877",
+        "name": "S. K. Rath"
+      },
+      {
+        "authorId": "73217818",
+        "name": "S. Misra"
+      }
+    ]
+  },
+  {
+    "paperId": "89babe5fad90fe3d5ed8682ca5d70e36810afecd",
+    "title": "Attention-Emotion-Enhanced Convolutional LSTM for Sentiment Analysis",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "3265414",
+        "name": "Faliang Huang"
+      },
+      {
+        "authorId": "67180560",
+        "name": "Xuelong Li"
+      },
+      {
+        "authorId": "2198072",
+        "name": "Changan Yuan"
+      },
+      {
+        "authorId": "1734695",
+        "name": "Shichao Zhang"
+      },
+      {
+        "authorId": "2108011309",
+        "name": "Jilian Zhang"
+      },
+      {
+        "authorId": "39613309",
+        "name": "Shaojie Qiao"
+      }
+    ]
+  },
+  {
+    "paperId": "6c106e060e84509c91928de2c8baeb7c4a86af03",
+    "title": "Sentiment Analysis for Fake News Detection",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "49549996",
+        "name": "Miguel A. Alonso"
+      },
+      {
+        "authorId": "3259155",
+        "name": "David Vilares"
+      },
+      {
+        "authorId": "2450508",
+        "name": "Carlos Gómez-Rodríguez"
+      },
+      {
+        "authorId": "3252869",
+        "name": "Jesús Vilares"
+      }
+    ]
+  },
+  {
+    "paperId": "0de47f354468283efc7765ec0b3588b2ae483c77",
+    "title": "Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence",
+    "year": 2019,
+    "authors": [
+      {
+        "authorId": "2116749770",
+        "name": "Chi Sun"
+      },
+      {
+        "authorId": "51244526",
+        "name": "Luyao Huang"
+      },
+      {
+        "authorId": "1767521",
+        "name": "Xipeng Qiu"
+      }
+    ]
+  },
+  {
+    "paperId": "1cb7e784a560f8bd2122bbb0274657192972f561",
+    "title": "Sentiment Analysis for E-Commerce Product Reviews in Chinese Based on Sentiment Lexicon and Deep Learning",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "2153209114",
+        "name": "Li Yang"
+      },
+      {
+        "authorId": "2155507926",
+        "name": "Ying Li"
+      },
+      {
+        "authorId": "2143718733",
+        "name": "Jin Wang"
+      },
+      {
+        "authorId": "145165793",
+        "name": "R. Sherratt"
+      }
+    ]
+  },
+  {
+    "paperId": "f3d3bed63fb51315e2726837363ab3c9e89769eb",
+    "title": "SenticNet 6: Ensemble Application of Symbolic and Subsymbolic AI for Sentiment Analysis",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "49943757",
+        "name": "E. Cambria"
+      },
+      {
+        "authorId": "39194273",
+        "name": "Yang Li"
+      },
+      {
+        "authorId": "121112586",
+        "name": "Frank Xing"
+      },
+      {
+        "authorId": "1746416",
+        "name": "Soujanya Poria"
+      },
+      {
+        "authorId": "2058062701",
+        "name": "Kenneth Kwok"
+      }
+    ]
+  },
+  {
+    "paperId": "8a07f92eeaa75f95c859656eb3d86ab961cd70c2",
+    "title": "SEntFiN 1.0: Entity‐aware sentiment analysis for financial news",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "40411516",
+        "name": "Ankur Sinha"
+      },
+      {
+        "authorId": "1396797769",
+        "name": "Satishwar Kedas"
+      },
+      {
+        "authorId": "2107940335",
+        "name": "Rishu Kumar"
+      },
+      {
+        "authorId": "40194127",
+        "name": "P. Malo"
+      }
+    ]
+  },
+  {
+    "paperId": "620e044cffc04b9d16e5c212995891ca992b8b4a",
+    "title": "Sentiment Analysis With Ensemble Hybrid Deep Learning Model",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "2153345991",
+        "name": "Kian Long Tan"
+      },
+      {
+        "authorId": "84161127",
+        "name": "C. Lee"
+      },
+      {
+        "authorId": "30039300",
+        "name": "K. Lim"
+      },
+      {
+        "authorId": "2446021",
+        "name": "K. Anbananthen"
+      }
+    ]
+  },
+  {
+    "paperId": "7fbb0b1aa264463abe4824ec125218edd2ba4e64",
+    "title": "International Sentiment Analysis for News and Blogs",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2168395",
+        "name": "Mikhail Bautin"
+      },
+      {
+        "authorId": "2057093402",
+        "name": "Lohit Vijayarenu"
+      },
+      {
+        "authorId": "1721948",
+        "name": "S. Skiena"
+      }
+    ]
+  },
+  {
+    "paperId": "ba82ccb1106d71a2dab614be15f79797c159a52e",
+    "title": "BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "51130254",
+        "name": "Shuo Liang"
+      },
+      {
+        "authorId": "47748186",
+        "name": "Wei Wei"
+      },
+      {
+        "authorId": "134880677",
+        "name": "Xian-Ling Mao"
+      },
+      {
+        "authorId": "2148955026",
+        "name": "Fei Wang"
+      },
+      {
+        "authorId": "2109965484",
+        "name": "Zhiyong He"
+      }
+    ]
+  },
+  {
+    "paperId": "f28d8ea988257c4f91ce445c1a4790317c31b296",
+    "title": "Evaluating the Effectiveness of Text Pre-Processing in Sentiment Analysis",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "3015425",
+        "name": "M. Palomino"
+      },
+      {
+        "authorId": "2083357232",
+        "name": "F. Aider"
+      }
+    ]
+  },
+  {
+    "paperId": "ac762288143469ba425840aaed0fe661d2c2ffb1",
+    "title": "Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "1993712503",
+        "name": "Xincheng Ju"
+      },
+      {
+        "authorId": "153165260",
+        "name": "Dong Zhang"
+      },
+      {
+        "authorId": "144875143",
+        "name": "Rong Xiao"
+      },
+      {
+        "authorId": "2108988393",
+        "name": "Junhui Li"
+      },
+      {
+        "authorId": "2109167274",
+        "name": "Shoushan Li"
+      },
+      {
+        "authorId": "2156053331",
+        "name": "Min Zhang"
+      },
+      {
+        "authorId": "143740945",
+        "name": "Guodong Zhou"
+      }
+    ]
+  },
+  {
+    "paperId": "99d5d4148550beed9269f164037488eeee3c4c69",
+    "title": "Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training",
+    "year": 2021,
+    "authors": [
+      {
+        "authorId": "2145371018",
+        "name": "Zhengyan Li"
+      },
+      {
+        "authorId": "51192034",
+        "name": "Yicheng Zou"
+      },
+      {
+        "authorId": "2111387504",
+        "name": "Chong Zhang"
+      },
+      {
+        "authorId": "1409702669",
+        "name": "Qi Zhang"
+      },
+      {
+        "authorId": "2118602528",
+        "name": "Zhongyu Wei"
+      }
+    ]
+  },
+  {
+    "paperId": "8cdeda9efbe2d1c12a406f8903ac698e8a1fef95",
+    "title": "KnowMIS-ABSA: an overview and a reference model for applications of sentiment analysis and aspect-based sentiment analysis",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "81500320",
+        "name": "G. D’aniello"
+      },
+      {
+        "authorId": "15025736",
+        "name": "M. Gaeta"
+      },
+      {
+        "authorId": "2193505959",
+        "name": "Ilaria La Rocca"
+      }
+    ]
+  },
+  {
+    "paperId": "7d1cf7e214db624358137545e24f0a3de98078b8",
+    "title": "SemEval 2022 Task 10: Structured Sentiment Analysis",
+    "year": 2022,
+    "authors": [
+      {
+        "authorId": "144435436",
+        "name": "Jeremy Barnes"
+      },
+      {
+        "authorId": "2175482893",
+        "name": "Laura Oberlaender"
+      },
+      {
+        "authorId": "82895194",
+        "name": "Enrica Troiano"
+      },
+      {
+        "authorId": "2689095",
+        "name": "Andrey Kutuzov"
+      },
+      {
+        "authorId": "122228470",
+        "name": "Jan Buchmann"
+      },
+      {
+        "authorId": "3242916",
+        "name": "Rodrigo Agerri"
+      },
+      {
+        "authorId": "2732223",
+        "name": "Lilja Øvrelid"
+      },
+      {
+        "authorId": "2027091",
+        "name": "Erik Velldal"
+      }
+    ]
+  },
+  {
+    "paperId": "9da79647cb2ce461671e17ed0f72a45e68bce393",
+    "title": "Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks",
+    "year": 2020,
+    "authors": [
+      {
+        "authorId": "3170717",
+        "name": "Aytuğ Onan"
+      }
+    ]
+  }
+]
