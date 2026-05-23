@@ -20,11 +20,13 @@ Para responder esto modelamos las publicaciones científicas como una red de coa
 
 Se construyó un **grafo no dirigido ponderado** `G = (V, E, w)`:
 
-- **V (nodos):** cada autor único identificado por su `authorId` de Semantic Scholar. Cada nodo guarda atributos: `name`, `paper_count` (número de papers del autor en el dataset) y `years` (años de publicación observados).
-- **E (aristas):** existe una arista entre dos autores si han co-publicado al menos un paper. Las aristas son no dirigidas porque la coautoría es simétrica.
-- **w (peso):** el peso de cada arista es el **número de papers que ambos autores han compartido**. Más papers en común = vínculo más fuerte.
+- **V (nodos):** cada autor único identificado por su `authorId` de Semantic Scholar. Cada nodo guarda atributos: `name`, `paper_count` y `years`.
+- **E (aristas):** existe una arista entre dos autores si han co-publicado al menos un paper. No dirigidas por simetría de la coautoría.
+- **w (peso):** el peso de cada arista es el **número de papers que ambos autores han compartido**.
 
-Para los algoritmos basados en distancia (Dijkstra, closeness), se deriva un atributo `distance = 1 / weight`, de modo que pares con muchas colaboraciones queden "más cerca" entre sí.
+Para los algoritmos basados en distancia (Dijkstra, closeness) se deriva un atributo `distance = 1 / weight`, de modo que pares con muchas colaboraciones queden "más cerca" entre sí.
+
+**Filtrado para visualización:** dado que el grafo completo (933 nodos) resulta ilegible y la mayoría de autores aparecen en un solo paper, el análisis profundo y las visualizaciones se enfocan en el **núcleo de los 150 autores más conectados** dentro de la componente gigante. Esta decisión preserva la estructura comunitaria principal mientras hace el grafo legible. Las métricas de componentes conexas se calculan sobre el grafo completo para conservar el panorama global.
 
 ## 3. Datos y algoritmos utilizados
 
@@ -38,9 +40,9 @@ Se ejecutaron 8 queries amplias sobre el endpoint `/graph/v1/paper/search` de Se
 |---|---|---|
 | Construcción incremental con `combinations` | NetworkX + itertools | Generar aristas entre todos los pares de co-autores de cada paper. |
 | `nx.connected_components` | NetworkX | Detectar la componente gigante y las componentes pequeñas. |
-| `nx.shortest_path` (Dijkstra) | NetworkX | Camino más corto entre pares de autores, usando `distance = 1/weight`. |
-| `nx.average_shortest_path_length` y `nx.diameter` | NetworkX | Medir el "tamaño" de la red en la componente gigante. |
-| `nx.degree_centrality` | NetworkX | Popularidad local (cuántos colaboradores directos). |
+| `nx.shortest_path` (Dijkstra) | NetworkX | Camino más corto entre pares de autores usando `distance = 1/weight`. |
+| `nx.average_shortest_path_length` y `nx.diameter` | NetworkX | Medir el "tamaño" de la red en el núcleo. |
+| `nx.degree_centrality` | NetworkX | Popularidad local. |
 | `nx.betweenness_centrality` | NetworkX | Identificar puentes entre subgrupos. |
 | `nx.closeness_centrality` | NetworkX | Qué tan céntrico es un autor respecto al resto. |
 | Louvain (`community.best_partition`) | python-louvain | Detección de comunidades por optimización de modularidad. |
@@ -49,81 +51,80 @@ Se ejecutaron 8 queries amplias sobre el endpoint `/graph/v1/paper/search` de Se
 
 ## 4. Resultados
 
-### 4.1 Estructura general
+### 4.1 Grafo completo
 
 | Métrica | Valor |
 |---|---|
-| Nodos (autores) | **933** |
+| Nodos (autores únicos) | **933** |
 | Aristas (colaboraciones únicas) | **8,130** |
-| Densidad | 0.0187 |
-| Grado promedio | 17.43 |
-| Grado máximo | 137 |
-| Peso promedio de aristas | 1.14 |
+| Total de componentes conexas | **119** |
+| Componente gigante | **380 nodos (40.7% del grafo)** |
+| Autores aislados | 9 |
+| Componentes pequeñas (2–5 nodos) | 80 |
+| Componentes medianas (6–30 nodos) | 28 |
+| Componentes grandes (>30 nodos) | 2 (35 y 28 nodos) |
 
-El **grado promedio de 17** indica que un autor típico ha colaborado con 17 personas distintas dentro del dataset. El peso promedio cercano a 1 confirma que la mayoría de las co-autorías son "puntuales" (un solo paper compartido), aunque existen excepciones de pares que han co-publicado varias veces.
+El grafo está fragmentado, con una clara componente dominante que concentra al 40% de los autores. El resto se distribuye en pequeños equipos satélite.
 
-### 4.2 Componentes conexas
+### 4.2 Núcleo filtrado (top-150 por degree)
 
-La red está dominada por una **componente gigante de 380 nodos (40.7% del total)**. El resto se distribuye así:
+Para el análisis profundo nos enfocamos en los 150 autores más conectados de la componente gigante:
 
-- 80 componentes pequeñas (2–5 autores)
-- 28 componentes medianas (6–30 autores)
-- 2 componentes grandes (35 y 28 nodos)
-- 9 autores aislados (un solo paper sin co-autores en el dataset)
+| Métrica | Valor |
+|---|---|
+| Nodos | **150** |
+| Aristas | **3,945** |
+| ¿Es conexo? | Sí |
+| Densidad | ~0.35 (red densa) |
+| Coeficiente de clustering promedio | **0.9481** |
+| Longitud promedio de caminos | **1.83 saltos** |
+| Diámetro | **4** |
 
-La componente gigante es densa: presenta un **coeficiente de clustering promedio de 0.901**, propiedad esperable en redes de coautoría donde los papers con múltiples autores generan triángulos completos.
+El núcleo es extremadamente compacto: dos investigadores cualesquiera están separados por menos de 2 colaboraciones intermedias en promedio. El clustering cercano a 1 indica que casi todos los amigos de un autor también colaboran entre sí — propiedad esperada en coautoría académica.
 
-### 4.3 Caminos mínimos
+### 4.3 Centralidad
 
-Dentro de la componente gigante:
-- **Longitud promedio de caminos:** 2.94 saltos
-- **Diámetro:** 7
+| Top por _Degree_ | Top por _Betweenness_ |
+|---|---|
+| Hady ElSahar (0.7651) | Hady ElSahar (0.4259) |
+| M. Costa-jussà (0.6242) | M. Costa-jussà (0.1970) |
+| Loïc Barrault (0.6107) | Julia Kreutzer (0.0735) |
+| Holger Schwenk (0.5302) | Guillaume Wenzek (0.0506) |
+| Guillaume Wenzek (0.5302) | Markus Freitag (0.0428) |
 
-Estos valores son la firma del fenómeno de **mundo pequeño** (small world): cualquier par de investigadores está separado por menos de 3 colaboraciones intermedias en promedio.
+**Hady ElSahar** domina ambas centralidades, especialmente betweenness, lo que la identifica como el conector central de toda la red. **M. Costa-jussà** la sigue de cerca por su papel en el proyecto NLLB. **Markus Freitag** aparece quinto en betweenness pero no en degree: es un puente clásico, conecta subgrupos sin tener el mayor número de colaboradores individuales.
 
-### 4.4 Centralidad
+### 4.4 Detección de comunidades
 
-| Top por _Degree_ | Top por _Betweenness_ | Top por _Closeness_ |
-|---|---|---|
-| M. Costa-jussà (0.36) | M. Costa-jussà (0.29) | Cynthia Gao (0.59) |
-| Hady ElSahar (0.30) | Hady ElSahar (0.23) | Ondrej Bojar (0.59) |
-| Guillaume Wenzek (0.29) | Markus Freitag (0.20) | Safiyyah Saleem (0.58) |
-| Loïc Barrault (0.28) | M. Krikun (0.10) | Prangthip Hansanti (0.58) |
-| Cynthia Gao (0.27) | Guillaume Wenzek (0.10) | Holger Schwenk (0.57) |
-
-**M. Costa-jussà** domina las tres métricas, lo que se explica por su rol central en el proyecto NLLB (_No Language Left Behind_) de Meta AI. **Markus Freitag** aparece en betweenness pero no en degree: es un "puente" clásico — conecta subgrupos sin tener necesariamente el mayor número de colaboradores.
-
-### 4.5 Detección de comunidades
-
-Louvain detectó **7 comunidades** con una **modularidad de 0.6319**, valor que indica estructura comunitaria muy fuerte (umbral mínimo de claridad: 0.3).
+Louvain detectó **5 comunidades** con una **modularidad de 0.4560**, valor por encima del umbral 0.3 que indica estructura comunitaria clara.
 
 | Comunidad | Tamaño | Autores destacados | Interpretación |
 |---|---|---|---|
-| 6 | 98 | Costa-jussà, Wenzek, Barrault, Gao, Schwenk | Proyecto NLLB (traducción multilingüe a escala) |
-| 1 | 77 | Philipp Koehn, Haddow, Federmann | Traducción automática clásica (WMT, Moses) |
-| 4 | 68 | _(autores varios)_ | _(subárea por identificar)_ |
-| 5 | 56 | _(autores varios)_ | _(subárea por identificar)_ |
-| 3 | 38 | _(autores varios)_ | _(subárea por identificar)_ |
+| 2 | 48 | Hady ElSahar, Julia Kreutzer, Perez Ogayo, I. Ezeani | NLP multilingüe e idiomas de bajos recursos (MasakhaNER) |
+| 1 | 48 | Jean Maillard, Pierre Yves Andrews, A. Mourachko | Ecosistema NLLB (Meta AI) |
+| 4 | 27 | _(traducción automática clásica)_ | WMT / sistemas estadísticos |
+| 3 | 18 | _(modelos pre-entrenados)_ | _(subárea por confirmar)_ |
+| 0 | 9 | _(grupo periférico)_ | _(grupo pequeño)_ |
 
-### 4.6 Visualizaciones
+### 4.5 Visualizaciones
 
-Se generaron tres figuras (disponibles en `figs/`):
+Se generaron tres figuras estáticas y una interactiva (todas en `figs/`):
 
-1. **`grafo_completo.png`** — la componente gigante con nodos coloreados por comunidad y tamaño proporcional al degree.
-2. **`grafo_top_betweenness.png`** — el mismo layout pero destacando solo los 10 autores con mayor betweenness centrality, identificados por nombre.
-3. **`distribucion_grados.png`** — distribución de grados en escala log-log, donde la pendiente aproximada sugiere comportamiento libre de escala.
-4. **`grafo_interactivo.html`** — versión navegable con zoom y hover para la presentación.
+1. **`grafo_completo.png`** — los 150 nodos del núcleo con colores por comunidad y tamaño por degree.
+2. **`grafo_top_betweenness.png`** — el mismo layout pero destacando solo los 10 autores con mayor betweenness, etiquetados con nombre.
+3. **`distribucion_grados.png`** — distribución de grados del grafo completo en escala log-log, con la firma típica de una red libre de escala.
+4. **`grafo_interactivo.html`** — versión navegable con zoom, hover y arrastre para la presentación en vivo.
 
 ## 5. Conclusiones
 
-La red de coautoría de PLN reconstruida desde Semantic Scholar exhibe las propiedades estructurales esperadas de un campo científico maduro:
+La red de coautoría de PLN reconstruida desde Semantic Scholar exhibe las propiedades estructurales esperadas de un campo científico maduro y altamente colaborativo:
 
-1. **Mundo pequeño** (camino promedio 2.94, diámetro 7) que conecta a la mayoría de investigadores activos en pocos saltos.
-2. **Componente gigante dominante** (40.7%) acompañada de equipos satélite pequeños y autores aislados, reflejando la mezcla de colaboración intensa y trabajo periférico típico de la academia.
-3. **Alto clustering** (0.901) por la naturaleza misma de la coautoría: cada paper de _n_ autores aporta `C(n,2)` aristas formando triángulos.
-4. **Estructura comunitaria fuerte** (modularidad 0.63) donde Louvain identifica claramente subgrupos temáticos coherentes, especialmente el cluster del proyecto NLLB y el de traducción automática clásica.
-5. **Autores puente identificables** (Freitag, Federmann) que conectan subáreas y serían perfectos candidatos para colaboraciones cross-comunidad.
+1. **Mundo pequeño extremo** en el núcleo activo: caminos promedio de 1.83 saltos y diámetro 4 entre los 150 investigadores principales.
+2. **Estructura general fragmentada** (119 componentes en el grafo completo) acompañada de un núcleo gigante (40.7%) — patrón típico de un campo maduro.
+3. **Altísimo clustering (0.95)** que confirma la naturaleza triangular de la coautoría.
+4. **5 comunidades claramente diferenciadas** (modularidad 0.46) que se corresponden con subáreas reales: NLP multilingüe, NLLB, WMT y otros grupos.
+5. **Conectores clave identificados**: Hady ElSahar y M. Costa-jussà como figuras centrales; Markus Freitag y C. Federmann como puentes estructurales entre subcomunidades.
 
-**Limitaciones del estudio:** el dataset depende de las queries elegidas; un autor de PLN cuyos papers no contengan ninguno de los 8 términos quedaría fuera. Adicionalmente, dos de las ocho queries planeadas no pudieron completarse debido al rate limit de la API sin key — con una API key autorizada el dataset podría triplicarse.
+**Limitaciones del estudio:** el dataset depende de las queries elegidas y solo dos de las ocho lograron completarse por el rate limit de la API. El filtrado a top-150 por degree privilegia a autores muy conectados y podría sesgar contra grupos pequeños relevantes.
 
-**Trabajo futuro:** ampliar la recolección con API key, enriquecer las aristas con métricas de citación conjunta y comparar la red de PLN con otra subárea (visión por computadora, sistemas distribuidos) para identificar patrones estructurales distintivos.
+**Trabajo futuro:** ampliar la recolección con API key autorizada, validar la robustez del particionamiento comparando con la red completa, enriquecer las aristas con métricas de citación conjunta, y comparar la red de PLN con otra subárea (visión por computadora, sistemas distribuidos) para identificar patrones distintivos.
