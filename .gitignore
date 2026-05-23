@@ -1,0 +1,43 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+ENV/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credenciales / API keys (nunca subir esto al repo)
+.env
+*.env
+secrets.json
+api_key.txt
+
+# Distribución / build
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Archivos grandes opcionales — descomenta si NO quieres versionar los datos crudos
+# data/raw/
+# *.csv
