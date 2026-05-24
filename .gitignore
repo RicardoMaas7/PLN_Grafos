@@ -19,6 +19,9 @@ __pycache__/
 .vscode/
 *.code-workspace
 
+# Claude Code
+.claude/
+
 # Sistema operativo
 .DS_Store
 Thumbs.db
@@ -41,3 +44,6 @@ build/
 # Archivos grandes opcionales — descomenta si NO quieres versionar los datos crudos
 # data/raw/
 # *.csv
+
+# Assets generados por pyvis (se recrean automáticamente)
+lib/
